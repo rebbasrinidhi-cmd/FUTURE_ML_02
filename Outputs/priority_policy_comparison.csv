@@ -1,0 +1,5 @@
+,accuracy_cv,macro_f1_cv,high_precision_cv,high_recall_cv,accuracy_test,macro_f1_test,high_precision_test,high_recall_test
+A. Keyword rules,0.7695,0.7684,0.8122,0.8896,0.7574,0.7555,0.7933,0.8529
+B. ML (argmax),0.8859,0.8869,0.9252,0.9474,0.8851,0.885,0.9078,0.9459
+C. ML + critical-keyword override,0.8719,0.8731,0.8809,0.9497,0.8732,0.8735,0.8685,0.952
+D. ML + High-recall threshold,0.8846,0.8853,0.9167,0.9505,0.8826,0.8824,0.9049,0.9429

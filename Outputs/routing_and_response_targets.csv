@@ -1,0 +1,7 @@
+Category,Route to,High: first reply,Medium: first reply,Low: first reply,Special handling
+Billing & Payments,Billing team,1 hour,8 hours,24 hours,Check for duplicate charges / fraud first
+Technical Issue,Technical support,1 hour,8 hours,24 hours,Page on-call engineer if several High tickets arrive together
+Account & Login,Account security,1 hour,8 hours,24 hours,Treat 'hacked' tickets as security incidents
+Shipping & Delivery,Logistics desk,1 hour,8 hours,24 hours,Contact the courier the same day for lost parcels
+Returns & Refunds,Returns desk,1 hour,8 hours,24 hours,Escalate safety-related defects to quality team
+General Inquiry,Customer success,1 hour,8 hours,24 hours,Forward partnership / bulk-order leads to sales

@@ -1,0 +1,1176 @@
+ticket_id,created_at,subject,actual_category,pred_category,cat_confidence,actual_priority,pred_priority,p_high
+T103152,2025-07-16,Account access,Account & Login,Account & Login,0.975,High,High,0.931
+T101248,2025-03-17,URGENT: App problem,Technical Issue,Technical Issue,0.966,High,High,0.997
+T101686,2025-04-14,Wrong amount billed,Billing & Payments,Billing & Payments,0.965,Medium,Medium,0.006
+T106011,2025-12-30,Quick question,General Inquiry,General Inquiry,0.964,Low,Low,0.001
+T100370,2025-01-23,Replacement needed,Returns & Refunds,Returns & Refunds,0.959,Low,Low,0.01
+T101493,2025-04-01,Where is my order,Shipping & Delivery,Shipping & Delivery,0.927,Low,Low,0.004
+T101130,2025-03-10,Replacement needed,Returns & Refunds,Returns & Refunds,0.841,Medium,Medium,0.002
+T101789,2025-04-20,Information request,General Inquiry,General Inquiry,0.926,Medium,Low,0.01
+T105666,2025-12-09,Billing question,Billing & Payments,Billing & Payments,0.795,Medium,Medium,0.005
+T100214,2025-01-15,Invoice issue,Billing & Payments,Billing & Payments,0.941,Low,Low,0.002
+T104121,2025-09-11,Wrong amount billed,Billing & Payments,Billing & Payments,0.889,Low,Low,0.022
+T100965,2025-02-28,Product information,General Inquiry,General Inquiry,0.971,Medium,Low,0.004
+T100000,2025-01-01,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.958,Medium,Medium,0.004
+T104806,2025-10-16,Re: my issue,Billing & Payments,Billing & Payments,0.899,Medium,Medium,0.005
+T102680,2025-06-13,Payment problem,Billing & Payments,Billing & Payments,0.861,Low,Low,0.017
+T101182,2025-03-13,Return request,Returns & Refunds,Returns & Refunds,0.86,Medium,Low,0.014
+T102774,2025-06-20,Billing question,Billing & Payments,Billing & Payments,0.968,High,High,0.993
+T103503,2025-08-06,Feature not loading,Technical Issue,Technical Issue,0.959,Medium,Medium,0.008
+T100696,2025-02-11,Account security,Account & Login,Account & Login,0.964,High,High,0.988
+T104861,2025-10-20,Bug report,Technical Issue,Technical Issue,0.873,Low,Medium,0.04
+T100776,2025-02-16,URGENT: App problem,Technical Issue,Technical Issue,0.925,High,High,0.987
+T102448,2025-05-30,Something is not working,Technical Issue,Technical Issue,0.936,Medium,Medium,0.003
+T101608,2025-04-09,Re: my issue,Billing & Payments,Billing & Payments,0.957,Low,Medium,0.121
+T104840,2025-10-18,Billing question,Billing & Payments,Billing & Payments,0.904,Medium,Medium,0.001
+T102972,2025-07-03,URGENT: Account access,Account & Login,Account & Login,0.759,High,High,0.952
+T104100,2025-09-10,Bug report,Technical Issue,Technical Issue,0.958,Low,Medium,0.095
+T100467,2025-01-28,Exchange question,Returns & Refunds,Returns & Refunds,0.944,Low,Low,0.002
+T100996,2025-03-01,Profile settings,Account & Login,Account & Login,0.973,Medium,Medium,0.003
+T101657,2025-04-11,Re: my issue,Account & Login,Account & Login,0.716,High,High,0.95
+T101890,2025-04-25,Tracking question,Shipping & Delivery,Shipping & Delivery,0.975,Medium,Medium,0.025
+T103674,2025-08-16,Question,Billing & Payments,Billing & Payments,0.815,Medium,Medium,0.014
+T102584,2025-06-07,App problem,Technical Issue,Technical Issue,0.946,Low,Low,0.014
+T104142,2025-09-12,Wrong amount billed,Billing & Payments,Billing & Payments,0.972,High,High,0.994
+T104027,2025-09-05,Feature not loading,Technical Issue,Technical Issue,0.96,Medium,Low,0.142
+T104748,2025-10-11,Wrong item received,Returns & Refunds,Returns & Refunds,0.983,High,High,0.975
+T102620,2025-06-10,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.955,Low,Low,0.004
+T102762,2025-06-19,Something is not working,Technical Issue,Technical Issue,0.969,Medium,Medium,0.013
+T105763,2025-12-16,Hello,Billing & Payments,Billing & Payments,0.911,Medium,Medium,0.001
+T101331,2025-03-23,Exchange question,Returns & Refunds,Returns & Refunds,0.9,Medium,Medium,0.009
+T105046,2025-10-29,Payment problem,Billing & Payments,Billing & Payments,0.778,High,Low,0.147
+T102444,2025-05-30,Payment problem,Billing & Payments,Billing & Payments,0.964,Low,Low,0.115
+T103960,2025-09-02,Wrong amount billed,Billing & Payments,Billing & Payments,0.935,Low,Low,0.002
+T100809,2025-02-18,Where is my order,Shipping & Delivery,Shipping & Delivery,0.64,Medium,Medium,0.003
+T104329,2025-09-18,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.861,High,High,0.494
+T100200,2025-01-14,URGENT: Wrong amount billed,Billing & Payments,Billing & Payments,0.934,High,High,0.992
+T104129,2025-09-11,Tracking question,Shipping & Delivery,Shipping & Delivery,0.796,Medium,Medium,0.001
+T101380,2025-03-26,Password reset,Account & Login,Account & Login,0.98,High,High,0.992
+T105409,2025-11-21,Charge on my card,Billing & Payments,Billing & Payments,0.919,High,High,0.976
+T100900,2025-02-24,Account security,Account & Login,Account & Login,0.894,Low,Low,0.034
+T103110,2025-07-14,Website error,Technical Issue,Technical Issue,0.943,Low,Low,0.004
+T100293,2025-01-19,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.946,High,High,0.546
+T104974,2025-10-26,Tracking question,Shipping & Delivery,Shipping & Delivery,0.877,High,High,0.437
+T102366,2025-05-26,Charge on my card,Billing & Payments,Billing & Payments,0.962,Medium,Low,0.008
+T105119,2025-11-03,Re: my issue,Shipping & Delivery,Shipping & Delivery,0.922,Low,High,0.817
+T102623,2025-06-10,Account access,Account & Login,Account & Login,0.981,Low,Medium,0.085
+T103702,2025-08-18,Question,Shipping & Delivery,Shipping & Delivery,0.96,Medium,Medium,0.056
+T100260,2025-01-16,Product information,General Inquiry,General Inquiry,0.954,Low,Low,0.009
+T103119,2025-07-14,Charge on my card,Billing & Payments,Billing & Payments,0.815,High,High,0.701
+T100347,2025-01-22,Payment problem,Billing & Payments,Billing & Payments,0.966,Medium,Medium,0.001
+T101305,2025-03-21,Website error,Technical Issue,Technical Issue,0.977,High,High,0.995
+T101652,2025-04-11,URGENT: Invoice issue,Billing & Payments,Billing & Payments,0.98,High,High,0.999
+T102803,2025-06-23,Tracking question,Shipping & Delivery,Shipping & Delivery,0.957,Medium,Medium,0.039
+T105101,2025-11-03,Re: my issue,Technical Issue,Technical Issue,0.723,High,High,0.872
+T102768,2025-06-19,Something is not working,Technical Issue,Technical Issue,0.958,Medium,Low,0.099
+T102576,2025-06-07,URGENT: App problem,Technical Issue,Technical Issue,0.964,High,High,0.976
+T102094,2025-05-08,Account access,Account & Login,Account & Login,0.977,Medium,Medium,0.134
+T100728,2025-02-13,URGENT: Bug report,Technical Issue,Technical Issue,0.966,High,High,0.895
+T101751,2025-04-17,Bug report,General Inquiry,Technical Issue,0.942,Medium,Medium,0.004
+T103682,2025-08-17,Re: my issue,Returns & Refunds,Returns & Refunds,0.951,Low,Low,0.15
+T104910,2025-10-22,Return request,Returns & Refunds,Returns & Refunds,0.972,Medium,Low,0.018
+T100019,2025-01-02,Payment problem,Billing & Payments,Billing & Payments,0.943,Medium,Low,0.1
+T100072,2025-01-06,Bug report,Technical Issue,Technical Issue,0.795,Medium,Medium,0.02
+T104174,2025-09-15,Bug report,Technical Issue,Technical Issue,0.966,High,High,0.962
+T105519,2025-11-28,Bug report,Technical Issue,Technical Issue,0.961,High,High,0.782
+T100869,2025-02-21,Password reset,Account & Login,Account & Login,0.981,Medium,Medium,0.072
+T101176,2025-03-13,Refund status,Returns & Refunds,Returns & Refunds,0.955,Low,Low,0.001
+T104348,2025-09-19,Website error,Technical Issue,Technical Issue,0.974,High,High,0.997
+T101028,2025-03-03,Password reset,Account & Login,Account & Login,0.968,Medium,Medium,0.001
+T102662,2025-06-12,Exchange question,Returns & Refunds,Returns & Refunds,0.939,High,High,0.64
+T104850,2025-10-19,Billing question,Billing & Payments,Billing & Payments,0.975,Low,Low,0.098
+T105367,2025-11-19,Where is my order,Shipping & Delivery,Shipping & Delivery,0.948,Low,Medium,0.083
+T102952,2025-07-03,Something is not working,Technical Issue,Technical Issue,0.974,High,High,0.983
+T102813,2025-06-23,Charge on my card,Billing & Payments,Billing & Payments,0.963,Medium,Medium,0.004
+T100624,2025-02-06,Billing question,Billing & Payments,Billing & Payments,0.948,High,High,0.762
+T100555,2025-02-02,URGENT: Partnership enquiry,General Inquiry,General Inquiry,0.956,Low,Low,0.029
+T105605,2025-12-05,Website error,Technical Issue,Technical Issue,0.808,Low,Low,0.023
+T100131,2025-01-09,URGENT: Account security,Account & Login,Account & Login,0.964,High,High,0.998
+T100631,2025-02-07,Account access,Account & Login,Account & Login,0.995,High,High,0.746
+T102339,2025-05-23,Invoice issue,Billing & Payments,Billing & Payments,0.975,High,High,0.99
+T103600,2025-08-12,Payment problem,Billing & Payments,Billing & Payments,0.781,Medium,Medium,0.002
+T103791,2025-08-23,URGENT: Invoice issue,Billing & Payments,Billing & Payments,0.954,High,High,0.995
+T100039,2025-01-03,Account security,Account & Login,Account & Login,0.641,Low,Low,0.021
+T103018,2025-07-07,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.954,High,High,0.895
+T104341,2025-09-19,Password reset,Account & Login,Account & Login,0.978,High,High,0.995
+T103509,2025-08-06,App problem,Technical Issue,Technical Issue,0.965,Medium,Medium,0.081
+T100698,2025-02-11,Exchange question,Returns & Refunds,Returns & Refunds,0.981,Medium,Medium,0.04
+T100617,2025-02-06,Support request,General Inquiry,General Inquiry,0.898,Low,Low,0.001
+T105999,2025-12-29,Cannot log in,Account & Login,Account & Login,0.947,High,Low,0.232
+T102919,2025-07-01,Billing question,Billing & Payments,Billing & Payments,0.97,Medium,Medium,0.004
+T101262,2025-03-18,Payment problem,Billing & Payments,Billing & Payments,0.97,High,High,0.98
+T105296,2025-11-14,Refund status,Returns & Refunds,Returns & Refunds,0.931,High,High,0.857
+T101947,2025-04-30,Where is my order,Shipping & Delivery,Shipping & Delivery,0.934,Low,Low,0.297
+T100636,2025-02-07,Need assistance,Billing & Payments,Billing & Payments,0.862,Medium,Medium,0.1
+T104491,2025-09-25,Bug report,Technical Issue,Technical Issue,0.893,High,High,0.454
+T101710,2025-04-15,Account security,Account & Login,Account & Login,0.969,Medium,Medium,0.002
+T101736,2025-04-16,Tracking question,Shipping & Delivery,Shipping & Delivery,0.962,Medium,Medium,0.069
+T102902,2025-06-30,Tracking question,Returns & Refunds,Shipping & Delivery,0.957,Low,Low,0.002
+T102484,2025-06-02,Help,Account & Login,Shipping & Delivery,0.441,Low,Low,0.028
+T100811,2025-02-18,Feature not loading,Technical Issue,Technical Issue,0.895,Medium,Medium,0.105
+T102465,2025-05-31,Website error,Account & Login,Technical Issue,0.94,Medium,Medium,0.085
+T101297,2025-03-20,Bug report,Technical Issue,Technical Issue,0.943,Medium,Low,0.03
+T105760,2025-12-15,URGENT: Profile settings,Account & Login,Account & Login,0.919,High,High,0.994
+T103210,2025-07-19,Profile settings,Account & Login,Account & Login,0.982,Medium,Medium,0.163
+T101134,2025-03-10,Question,General Inquiry,General Inquiry,0.948,Low,Medium,0.014
+T105687,2025-12-10,Where is my order,Shipping & Delivery,Shipping & Delivery,0.802,Low,Low,0.12
+T104709,2025-10-09,Where is my order,Returns & Refunds,Shipping & Delivery,0.916,Medium,Medium,0.001
+T103546,2025-08-08,URGENT: Website error,Technical Issue,Technical Issue,0.964,Low,Low,0.217
+T103421,2025-08-01,Where is my order,Shipping & Delivery,Shipping & Delivery,0.891,Low,Low,0.031
+T104463,2025-09-24,Billing question,Billing & Payments,Billing & Payments,0.928,Medium,Medium,0.001
+T103863,2025-08-28,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.957,Medium,Medium,0.019
+T102975,2025-07-04,URGENT: Support request,Technical Issue,Technical Issue,0.74,High,High,0.971
+T104513,2025-09-26,Billing question,Billing & Payments,Billing & Payments,0.969,Medium,Medium,0.004
+T105208,2025-11-10,Partnership enquiry,General Inquiry,General Inquiry,0.962,Low,Low,0.003
+T104802,2025-10-15,Support request,Returns & Refunds,Returns & Refunds,0.864,Medium,Medium,0.005
+T104528,2025-09-26,Need assistance,General Inquiry,General Inquiry,0.928,Medium,Medium,0.021
+T104393,2025-09-20,URGENT: Re: my issue,Technical Issue,Technical Issue,0.932,High,High,0.999
+T100905,2025-02-24,Where is my order,Shipping & Delivery,Shipping & Delivery,0.878,Medium,High,0.869
+T103770,2025-08-21,Bug report,Technical Issue,Technical Issue,0.95,Medium,Medium,0.003
+T100671,2025-02-10,Invoice issue,Billing & Payments,Billing & Payments,0.978,Low,Medium,0.059
+T105969,2025-12-26,URGENT: Support request,Billing & Payments,Billing & Payments,0.928,High,High,0.945
+T101047,2025-03-04,Billing question,Billing & Payments,Billing & Payments,0.914,Medium,Medium,0.004
+T100013,2025-01-02,Profile settings,Account & Login,Account & Login,0.952,Medium,Low,0.079
+T103675,2025-08-16,Tracking question,Shipping & Delivery,Shipping & Delivery,0.973,High,High,0.96
+T103002,2025-07-06,Question,Account & Login,Account & Login,0.907,High,High,0.905
+T102433,2025-05-29,Where is my order,Shipping & Delivery,Shipping & Delivery,0.955,Medium,Low,0.031
+T102525,2025-06-04,Something is not working,Technical Issue,Technical Issue,0.616,Low,Low,0.011
+T104823,2025-10-17,URGENT: Charge on my card,Billing & Payments,Billing & Payments,0.959,High,High,0.999
+T100530,2025-01-31,Shipping delay,Returns & Refunds,Shipping & Delivery,0.971,Medium,Medium,0.0
+T100025,2025-01-02,Invoice issue,Billing & Payments,Billing & Payments,0.965,High,Medium,0.192
+T101111,2025-03-08,Tracking question,Shipping & Delivery,Shipping & Delivery,0.968,High,High,0.983
+T101994,2025-05-02,Bug report,Technical Issue,Technical Issue,0.834,Medium,Medium,0.007
+T102218,2025-05-16,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.972,Medium,Low,0.002
+T104578,2025-10-01,URGENT: Where is my order,Shipping & Delivery,Shipping & Delivery,0.906,High,High,0.988
+T100966,2025-02-28,Tracking question,Shipping & Delivery,Shipping & Delivery,0.956,Medium,Low,0.005
+T102230,2025-05-17,Where is my order,Shipping & Delivery,Shipping & Delivery,0.943,Medium,Medium,0.0
+T102299,2025-05-22,URGENT: Cannot log in,Account & Login,Account & Login,0.933,High,High,0.974
+T105918,2025-12-24,URGENT: Feature not loading,Technical Issue,Technical Issue,0.951,High,High,0.973
+T102556,2025-06-06,Website error,Technical Issue,Technical Issue,0.956,Medium,Medium,0.003
+T104925,2025-10-22,Charge on my card,Billing & Payments,Billing & Payments,0.958,High,High,0.992
+T105506,2025-11-28,Payment problem,Billing & Payments,Billing & Payments,0.981,High,High,0.996
+T104737,2025-10-10,Question,Technical Issue,Technical Issue,0.724,Low,Low,0.02
+T100485,2025-01-29,Account access,Account & Login,Account & Login,0.971,Low,Medium,0.362
+T101602,2025-04-09,Where is my order,Shipping & Delivery,Shipping & Delivery,0.855,Medium,Medium,0.001
+T102203,2025-05-15,Question,Billing & Payments,Billing & Payments,0.953,High,High,0.997
+T101713,2025-04-15,URGENT: Exchange question,Returns & Refunds,Returns & Refunds,0.954,High,High,0.995
+T102667,2025-06-13,Charge on my card,Billing & Payments,Billing & Payments,0.961,Medium,Medium,0.003
+T103271,2025-07-23,Feature not loading,Technical Issue,Technical Issue,0.966,High,High,0.869
+T101275,2025-03-19,URGENT: Billing question,Billing & Payments,Billing & Payments,0.968,High,High,0.945
+T103189,2025-07-18,Payment problem,Billing & Payments,Billing & Payments,0.958,Low,Low,0.004
+T103899,2025-08-29,Account security,Account & Login,Account & Login,0.957,Medium,Medium,0.002
+T104288,2025-09-18,Help,Technical Issue,Technical Issue,0.956,High,High,0.993
+T105861,2025-12-20,URGENT: Website error,Technical Issue,Technical Issue,0.933,Low,Low,0.154
+T102114,2025-05-09,Cannot log in,Account & Login,Account & Login,0.956,Medium,Medium,0.013
+T103445,2025-08-03,Account access,Account & Login,Account & Login,0.968,Low,Medium,0.241
+T101733,2025-04-16,Charge on my card,Billing & Payments,Billing & Payments,0.947,Medium,Medium,0.002
+T100801,2025-02-18,Product information,General Inquiry,General Inquiry,0.965,Medium,Medium,0.313
+T102464,2025-05-31,Replacement needed,Returns & Refunds,Returns & Refunds,0.944,Medium,Medium,0.001
+T100942,2025-02-26,Information request,General Inquiry,General Inquiry,0.713,Low,Low,0.006
+T101983,2025-05-02,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.84,Medium,Medium,0.003
+T101154,2025-03-11,Something is not working,Technical Issue,Technical Issue,0.98,High,High,0.998
+T104428,2025-09-22,URGENT: Password reset,Account & Login,Account & Login,0.972,High,High,0.985
+T101860,2025-04-24,Question,Returns & Refunds,Returns & Refunds,0.865,Medium,High,0.571
+T103243,2025-07-22,Profile settings,Account & Login,Account & Login,0.991,High,High,0.995
+T103756,2025-08-21,Wrong amount billed,Billing & Payments,Billing & Payments,0.954,Low,Low,0.004
+T103768,2025-08-21,Feature not loading,Technical Issue,Technical Issue,0.977,Medium,Medium,0.01
+T102388,2025-05-27,Re: my issue,Technical Issue,Technical Issue,0.896,Medium,Medium,0.001
+T104355,2025-09-19,Profile settings,Account & Login,Account & Login,0.97,Medium,Medium,0.005
+T100444,2025-01-27,App problem,Technical Issue,Technical Issue,0.96,High,High,0.928
+T104569,2025-09-30,Wrong amount billed,Billing & Payments,Billing & Payments,0.985,Medium,Medium,0.036
+T101521,2025-04-03,Feature not loading,Technical Issue,Technical Issue,0.973,Medium,Medium,0.005
+T102606,2025-06-09,URGENT: Parcel issue,Shipping & Delivery,Shipping & Delivery,0.944,High,High,0.979
+T101352,2025-03-24,Support request,Shipping & Delivery,Shipping & Delivery,0.593,Low,Low,0.001
+T100255,2025-01-16,URGENT: Question,Technical Issue,Technical Issue,0.932,High,High,0.922
+T103567,2025-08-10,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.938,Medium,Medium,0.042
+T105066,2025-10-30,Refund status,Returns & Refunds,Returns & Refunds,0.974,Low,Low,0.005
+T104317,2025-09-18,App problem,Technical Issue,Technical Issue,0.964,High,High,0.854
+T100379,2025-01-23,Feature not loading,Technical Issue,Technical Issue,0.952,Low,Low,0.047
+T101330,2025-03-22,Something is not working,General Inquiry,Technical Issue,0.939,Medium,Low,0.03
+T101509,2025-04-02,Bug report,Technical Issue,Technical Issue,0.976,High,High,0.54
+T102859,2025-06-26,Billing question,Billing & Payments,Billing & Payments,0.877,Medium,Medium,0.003
+T105199,2025-11-09,Tracking question,Shipping & Delivery,Shipping & Delivery,0.882,Low,Low,0.014
+T100954,2025-02-27,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.827,High,High,0.931
+T105736,2025-12-14,Support request,Technical Issue,Technical Issue,0.926,High,High,0.458
+T102289,2025-05-21,Feature not loading,Technical Issue,Technical Issue,0.959,Low,Low,0.024
+T101726,2025-04-16,Need assistance,Billing & Payments,Billing & Payments,0.911,Medium,Medium,0.032
+T101729,2025-04-16,Something is not working,Technical Issue,Technical Issue,0.976,Low,Low,0.239
+T102458,2025-05-30,App problem,Technical Issue,Technical Issue,0.958,Medium,Medium,0.004
+T105148,2025-11-05,Charge on my card,Billing & Payments,Billing & Payments,0.971,Low,Medium,0.181
+T104471,2025-09-24,Charge on my card,Billing & Payments,Billing & Payments,0.94,Low,Low,0.013
+T100517,2025-01-30,Shipping delay,Returns & Refunds,Shipping & Delivery,0.971,Medium,Medium,0.0
+T100985,2025-02-28,Invoice issue,Billing & Payments,Billing & Payments,0.967,Medium,Medium,0.001
+T104672,2025-10-07,Account security,Account & Login,Account & Login,0.944,Low,Low,0.008
+T101808,2025-04-21,Something is not working,Technical Issue,Technical Issue,0.962,Medium,Medium,0.008
+T100829,2025-02-19,Password reset,Account & Login,Account & Login,0.98,High,High,0.997
+T105329,2025-11-17,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.971,Low,Low,0.004
+T102052,2025-05-07,Account security,Account & Login,Account & Login,0.969,Medium,Medium,0.001
+T102780,2025-06-20,Support request,Account & Login,Account & Login,0.779,Medium,Medium,0.003
+T101044,2025-03-04,Website error,Technical Issue,Technical Issue,0.952,Low,High,0.625
+T102769,2025-06-19,Account access,Account & Login,Account & Login,0.89,Medium,Medium,0.003
+T105177,2025-11-07,Invoice issue,Billing & Payments,Billing & Payments,0.941,Low,Low,0.002
+T100156,2025-01-10,Billing question,Billing & Payments,Billing & Payments,0.915,Medium,Medium,0.043
+T105312,2025-11-16,Bug report,Technical Issue,Technical Issue,0.936,Medium,Medium,0.001
+T103813,2025-08-25,Account access,Account & Login,Account & Login,0.989,High,High,0.553
+T102983,2025-07-04,Billing question,Billing & Payments,Billing & Payments,0.959,Low,High,0.446
+T101285,2025-03-19,Exchange question,Returns & Refunds,Returns & Refunds,0.975,Low,Low,0.018
+T104948,2025-10-24,Question,Technical Issue,Account & Login,0.47,Medium,Medium,0.001
+T104279,2025-09-17,Bug report,Technical Issue,Technical Issue,0.922,High,High,0.501
+T105079,2025-10-31,Account access,Account & Login,Account & Login,0.955,High,High,0.464
+T103141,2025-07-15,Account access,Account & Login,Account & Login,0.974,High,High,0.752
+T103402,2025-07-31,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.961,Medium,High,0.66
+T105720,2025-12-12,Question,General Inquiry,General Inquiry,0.511,Low,High,0.523
+T105976,2025-12-27,Exchange question,Returns & Refunds,Returns & Refunds,0.915,Medium,Medium,0.002
+T100107,2025-01-07,Exchange question,Returns & Refunds,Returns & Refunds,0.962,Low,Low,0.01
+T102521,2025-06-04,Feedback,General Inquiry,General Inquiry,0.946,Low,Low,0.003
+T105908,2025-12-23,URGENT: Feature not loading,Technical Issue,Technical Issue,0.979,High,High,0.998
+T101967,2025-05-01,Replacement needed,Returns & Refunds,Returns & Refunds,0.894,Medium,Medium,0.127
+T105608,2025-12-05,Feedback,General Inquiry,General Inquiry,0.622,Low,Low,0.001
+T104929,2025-10-23,Information request,General Inquiry,General Inquiry,0.977,Low,Low,0.004
+T102609,2025-06-10,Exchange question,Returns & Refunds,Returns & Refunds,0.962,Low,Medium,0.266
+T105305,2025-11-15,Re: my issue,Billing & Payments,Billing & Payments,0.593,Medium,Medium,0.033
+T100872,2025-02-21,Question,Billing & Payments,Billing & Payments,0.778,High,Low,0.064
+T104870,2025-10-20,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.951,Low,Low,0.009
+T102223,2025-05-16,Re: my issue,Shipping & Delivery,Shipping & Delivery,0.957,Medium,High,0.769
+T103338,2025-07-28,Refund status,Returns & Refunds,Returns & Refunds,0.978,Low,Low,0.001
+T103093,2025-07-11,Account security,Account & Login,Account & Login,0.965,High,High,0.727
+T101394,2025-03-27,Where is my order,Shipping & Delivery,Shipping & Delivery,0.954,Medium,Medium,0.013
+T102498,2025-06-03,URGENT: Where is my order,Shipping & Delivery,Shipping & Delivery,0.952,High,High,0.997
+T102596,2025-06-09,Wrong item received,Returns & Refunds,Returns & Refunds,0.968,Low,Low,0.029
+T105754,2025-12-15,Website error,Technical Issue,Technical Issue,0.963,Medium,Medium,0.007
+T105365,2025-11-19,Bug report,Technical Issue,Technical Issue,0.704,Medium,Medium,0.002
+T103249,2025-07-22,Question,Account & Login,Billing & Payments,0.368,Medium,Low,0.016
+T104213,2025-09-16,Website error,Technical Issue,Technical Issue,0.942,High,High,0.966
+T101609,2025-04-09,Partnership enquiry,General Inquiry,General Inquiry,0.968,Low,Low,0.002
+T104939,2025-10-23,Question,Technical Issue,Account & Login,0.594,Medium,Medium,0.002
+T105109,2025-11-03,Need assistance,Billing & Payments,Billing & Payments,0.513,Low,Low,0.011
+T105381,2025-11-20,URGENT: App problem,Technical Issue,Technical Issue,0.962,High,High,0.991
+T103855,2025-08-27,Wrong amount billed,Billing & Payments,Billing & Payments,0.971,Medium,Medium,0.004
+T102772,2025-06-20,URGENT: Something is not working,Technical Issue,Technical Issue,0.865,High,High,0.894
+T102550,2025-06-05,Replacement needed,Returns & Refunds,Returns & Refunds,0.823,Medium,Medium,0.026
+T104706,2025-10-08,Wrong amount billed,Billing & Payments,Billing & Payments,0.959,Low,Low,0.075
+T102314,2025-05-22,Where is my order,Shipping & Delivery,Shipping & Delivery,0.966,High,High,0.99
+T105378,2025-11-20,Feature not loading,Technical Issue,Technical Issue,0.971,Medium,Medium,0.003
+T104889,2025-10-21,URGENT: Charge on my card,Billing & Payments,Billing & Payments,0.9,High,High,0.999
+T102324,2025-05-23,Charge on my card,Billing & Payments,Billing & Payments,0.969,High,High,0.99
+T102951,2025-07-02,Account security,Account & Login,Account & Login,0.955,Low,Low,0.069
+T105799,2025-12-17,Hello,Shipping & Delivery,Shipping & Delivery,0.933,Medium,Medium,0.0
+T103081,2025-07-10,Account security,Account & Login,Account & Login,0.953,Medium,Medium,0.001
+T103979,2025-09-03,Something is not working,Technical Issue,Technical Issue,0.879,Medium,Medium,0.004
+T100136,2025-01-09,Support request,General Inquiry,General Inquiry,0.935,Low,Low,0.014
+T104977,2025-10-26,Partnership enquiry,General Inquiry,General Inquiry,0.964,Medium,High,0.556
+T100249,2025-01-16,Payment problem,Billing & Payments,Billing & Payments,0.966,Medium,Medium,0.001
+T101610,2025-04-09,Re: my issue,Account & Login,Technical Issue,0.742,Low,Low,0.023
+T101369,2025-03-25,Account security,Account & Login,Account & Login,0.809,Medium,Medium,0.112
+T102429,2025-05-29,Password reset,Account & Login,Account & Login,0.94,Medium,Medium,0.004
+T101454,2025-03-30,Refund status,Returns & Refunds,Returns & Refunds,0.91,Low,Low,0.008
+T105037,2025-10-29,Question,Billing & Payments,Billing & Payments,0.901,Medium,High,0.574
+T103478,2025-08-05,Cannot log in,Account & Login,Account & Login,0.964,Medium,Medium,0.009
+T100285,2025-01-18,Profile settings,Account & Login,Account & Login,0.881,Medium,Medium,0.027
+T104257,2025-09-16,URGENT: App problem,Technical Issue,Technical Issue,0.964,High,High,0.956
+T100266,2025-01-17,Where is my order,Shipping & Delivery,Shipping & Delivery,0.966,High,High,0.988
+T102851,2025-06-26,Re: my issue,Shipping & Delivery,Shipping & Delivery,0.931,Low,Low,0.021
+T103549,2025-08-08,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.657,Low,Low,0.021
+T100100,2025-01-07,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.896,High,High,0.508
+T104161,2025-09-14,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.821,Low,Medium,0.109
+T103415,2025-08-01,Hello,Shipping & Delivery,Shipping & Delivery,0.958,High,High,0.983
+T102201,2025-05-15,Help,Billing & Payments,Billing & Payments,0.939,Medium,Medium,0.003
+T102321,2025-05-23,Something is not working,Technical Issue,Technical Issue,0.974,Medium,Medium,0.008
+T105704,2025-12-11,Feedback,General Inquiry,General Inquiry,0.933,Low,Low,0.019
+T102724,2025-06-17,Wrong amount billed,Billing & Payments,Billing & Payments,0.957,Medium,Medium,0.003
+T104113,2025-09-11,Password reset,Account & Login,Account & Login,0.733,Medium,Medium,0.079
+T103831,2025-08-26,App problem,Technical Issue,Technical Issue,0.95,High,High,0.559
+T101869,2025-04-24,Charge on my card,Billing & Payments,Billing & Payments,0.969,Medium,Medium,0.003
+T101043,2025-03-04,Where is my order,Shipping & Delivery,Shipping & Delivery,0.962,Low,Low,0.01
+T103454,2025-08-04,Quick question,General Inquiry,General Inquiry,0.917,Low,Low,0.036
+T102071,2025-05-07,Wrong amount billed,Billing & Payments,Billing & Payments,0.966,Low,Low,0.007
+T104809,2025-10-16,Feature not loading,Technical Issue,Technical Issue,0.769,Medium,Medium,0.087
+T104050,2025-09-07,Payment problem,Billing & Payments,Billing & Payments,0.943,Low,Low,0.003
+T101566,2025-04-06,App problem,Technical Issue,Technical Issue,0.972,Medium,Medium,0.082
+T104880,2025-10-21,Need assistance,Shipping & Delivery,Shipping & Delivery,0.93,Medium,Medium,0.001
+T100844,2025-02-20,Invoice issue,Billing & Payments,Billing & Payments,0.954,Medium,Medium,0.077
+T102428,2025-05-29,URGENT: Return request,Returns & Refunds,Returns & Refunds,0.95,High,High,0.968
+T102258,2025-05-19,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.951,Medium,Medium,0.025
+T104641,2025-10-05,Tracking question,Returns & Refunds,Shipping & Delivery,0.961,Medium,Low,0.237
+T102612,2025-06-10,Profile settings,Account & Login,Account & Login,0.845,Medium,Medium,0.006
+T103494,2025-08-06,App problem,Technical Issue,Technical Issue,0.935,Medium,Medium,0.017
+T102046,2025-05-06,Question,Billing & Payments,Billing & Payments,0.821,Medium,Low,0.1
+T104088,2025-09-10,Question,Returns & Refunds,Returns & Refunds,0.946,Medium,Medium,0.049
+T104461,2025-09-24,Wrong amount billed,Returns & Refunds,Billing & Payments,0.969,High,High,0.984
+T102272,2025-05-20,Question,Billing & Payments,Billing & Payments,0.935,High,High,0.933
+T101152,2025-03-11,URGENT: App problem,Technical Issue,Technical Issue,0.883,High,High,0.987
+T100179,2025-01-12,Tracking question,Shipping & Delivery,Shipping & Delivery,0.941,Medium,Low,0.007
+T100864,2025-02-21,URGENT: Return request,Returns & Refunds,Returns & Refunds,0.952,High,High,0.996
+T105324,2025-11-17,URGENT: Billing question,Billing & Payments,Billing & Payments,0.973,High,High,0.999
+T103857,2025-08-27,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.967,Medium,Medium,0.001
+T100628,2025-02-07,Feedback,General Inquiry,General Inquiry,0.956,Medium,Medium,0.0
+T102311,2025-05-22,Partnership enquiry,General Inquiry,General Inquiry,0.935,Low,Low,0.195
+T102069,2025-05-07,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.97,High,High,0.987
+T102005,2025-05-04,Account access,Account & Login,Account & Login,0.962,High,High,0.704
+T100237,2025-01-15,Tracking question,Shipping & Delivery,Shipping & Delivery,0.97,Medium,Medium,0.001
+T105455,2025-11-25,Payment problem,Billing & Payments,Billing & Payments,0.977,Medium,Medium,0.201
+T105950,2025-12-25,URGENT: Need assistance,Billing & Payments,Billing & Payments,0.888,High,High,0.955
+T104200,2025-09-15,Return request,Returns & Refunds,Returns & Refunds,0.96,Medium,Medium,0.0
+T102128,2025-05-10,Question,Returns & Refunds,Returns & Refunds,0.919,Low,Low,0.029
+T101551,2025-04-05,Quick question,General Inquiry,General Inquiry,0.96,Medium,Medium,0.001
+T102978,2025-07-04,Payment problem,Billing & Payments,Billing & Payments,0.852,Medium,Medium,0.321
+T102512,2025-06-03,Charge on my card,Billing & Payments,Billing & Payments,0.935,Low,Low,0.002
+T103758,2025-08-21,Tracking question,Shipping & Delivery,Shipping & Delivery,0.961,Medium,Medium,0.037
+T105650,2025-12-09,Return request,Billing & Payments,Returns & Refunds,0.971,High,High,0.96
+T100178,2025-01-12,Help,Shipping & Delivery,Shipping & Delivery,0.949,High,High,0.93
+T101800,2025-04-21,Need assistance,Technical Issue,Technical Issue,0.875,Medium,Medium,0.002
+T101818,2025-04-22,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.972,High,High,0.974
+T100808,2025-02-18,Replacement needed,Returns & Refunds,Returns & Refunds,0.846,Low,Low,0.013
+T100268,2025-01-17,Exchange question,Returns & Refunds,Returns & Refunds,0.712,Low,Low,0.002
+T102719,2025-06-17,Something is not working,Technical Issue,Technical Issue,0.973,Medium,Medium,0.093
+T100812,2025-02-18,Feedback,General Inquiry,General Inquiry,0.936,High,High,0.962
+T102537,2025-06-05,Tracking question,Shipping & Delivery,Shipping & Delivery,0.958,Medium,Medium,0.001
+T105088,2025-11-01,Where is my order,Shipping & Delivery,Shipping & Delivery,0.952,Medium,Medium,0.001
+T102995,2025-07-05,Something is not working,Technical Issue,Technical Issue,0.974,High,High,0.983
+T103550,2025-08-08,Exchange question,Returns & Refunds,Returns & Refunds,0.892,Medium,Medium,0.007
+T104360,2025-09-19,Website error,Technical Issue,Technical Issue,0.87,High,High,0.903
+T105973,2025-12-27,Tracking question,Shipping & Delivery,Shipping & Delivery,0.94,Low,High,0.507
+T102998,2025-07-05,Password reset,Account & Login,Account & Login,0.968,High,High,0.967
+T104935,2025-10-23,Help,Technical Issue,Technical Issue,0.804,Low,Low,0.098
+T104808,2025-10-16,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.954,Medium,Medium,0.002
+T105932,2025-12-25,Payment problem,Billing & Payments,Billing & Payments,0.778,Low,Low,0.006
+T104272,2025-09-17,App problem,Technical Issue,Technical Issue,0.965,High,High,0.882
+T100623,2025-02-06,Tracking question,Shipping & Delivery,Shipping & Delivery,0.928,Medium,Medium,0.008
+T103044,2025-07-08,Cannot log in,Account & Login,Account & Login,0.984,Low,Medium,0.252
+T100853,2025-02-20,URGENT: Parcel issue,Shipping & Delivery,Shipping & Delivery,0.956,Low,Low,0.059
+T103601,2025-08-12,Hello,Returns & Refunds,Returns & Refunds,0.916,Medium,Medium,0.004
+T100271,2025-01-17,URGENT: Charge on my card,Billing & Payments,Billing & Payments,0.961,High,High,0.999
+T105462,2025-11-25,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.971,Medium,Medium,0.001
+T104736,2025-10-10,Website error,Technical Issue,Technical Issue,0.98,Medium,High,0.768
+T105854,2025-12-20,Partnership enquiry,General Inquiry,General Inquiry,0.921,Low,Low,0.017
+T101329,2025-03-22,Something is not working,Technical Issue,Technical Issue,0.976,Medium,Medium,0.003
+T103211,2025-07-19,Refund status,Returns & Refunds,Returns & Refunds,0.969,Medium,Medium,0.001
+T104190,2025-09-15,Bug report,Technical Issue,Technical Issue,0.949,High,High,0.883
+T105762,2025-12-16,Refund status,Returns & Refunds,Returns & Refunds,0.967,Low,Low,0.034
+T103215,2025-07-19,Something is not working,General Inquiry,Technical Issue,0.96,Medium,Medium,0.003
+T101792,2025-04-20,Charge on my card,Billing & Payments,Billing & Payments,0.941,Low,Low,0.009
+T102379,2025-05-26,Re: my issue,Billing & Payments,Billing & Payments,0.934,Low,Low,0.07
+T102547,2025-06-05,URGENT: Profile settings,Account & Login,Account & Login,0.957,High,High,0.855
+T103722,2025-08-19,URGENT: Something is not working,Technical Issue,Technical Issue,0.964,High,High,0.999
+T102351,2025-05-25,Bug report,Technical Issue,Technical Issue,0.923,Medium,Medium,0.001
+T103099,2025-07-11,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.977,Low,Medium,0.02
+T105379,2025-11-20,Exchange question,Returns & Refunds,Returns & Refunds,0.773,Low,Low,0.02
+T103313,2025-07-26,Profile settings,Account & Login,Account & Login,0.906,Medium,Medium,0.003
+T102940,2025-07-02,Support request,Technical Issue,Technical Issue,0.901,Medium,Medium,0.007
+T102720,2025-06-17,Charge on my card,Billing & Payments,Billing & Payments,0.943,Low,Low,0.087
+T105959,2025-12-26,App problem,Technical Issue,Technical Issue,0.933,Low,High,0.449
+T105916,2025-12-23,Account access,Account & Login,Account & Login,0.975,Low,Low,0.031
+T102529,2025-06-04,Help,Technical Issue,Technical Issue,0.916,Medium,Medium,0.0
+T100077,2025-01-06,Wrong item received,Returns & Refunds,Returns & Refunds,0.972,Low,Low,0.005
+T104750,2025-10-12,Help,Shipping & Delivery,Shipping & Delivery,0.923,Medium,Medium,0.002
+T102435,2025-05-29,Wrong amount billed,Billing & Payments,Billing & Payments,0.885,Medium,High,0.579
+T100069,2025-01-05,Information request,General Inquiry,General Inquiry,0.961,High,High,0.886
+T101139,2025-03-10,URGENT: Parcel issue,Shipping & Delivery,Shipping & Delivery,0.969,Low,Low,0.163
+T103403,2025-07-31,Invoice issue,Billing & Payments,Billing & Payments,0.964,Medium,Medium,0.001
+T100725,2025-02-13,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.964,High,High,0.938
+T101620,2025-04-09,Exchange question,Returns & Refunds,Returns & Refunds,0.971,Medium,Medium,0.0
+T102461,2025-05-30,Account access,Account & Login,Account & Login,0.972,Medium,Medium,0.08
+T101538,2025-04-04,Tracking question,Shipping & Delivery,Shipping & Delivery,0.98,Medium,Medium,0.054
+T105045,2025-10-29,Cannot log in,Account & Login,Account & Login,0.984,Medium,Medium,0.252
+T103299,2025-07-25,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.956,Medium,Medium,0.001
+T100825,2025-02-19,URGENT: Bug report,Technical Issue,Technical Issue,0.981,High,High,0.999
+T100859,2025-02-20,Invoice issue,Billing & Payments,Billing & Payments,0.954,Low,Low,0.014
+T105637,2025-12-08,Wrong item received,Returns & Refunds,Returns & Refunds,0.967,Medium,Low,0.114
+T105121,2025-11-04,URGENT: Cannot log in,Account & Login,Account & Login,0.964,High,High,0.999
+T103439,2025-08-02,Information request,General Inquiry,General Inquiry,0.974,Medium,Low,0.001
+T102661,2025-06-12,Question,General Inquiry,General Inquiry,0.79,Low,Low,0.006
+T103557,2025-08-09,Re: my issue,Shipping & Delivery,Shipping & Delivery,0.945,Medium,Medium,0.051
+T104429,2025-09-22,Charge on my card,Billing & Payments,Billing & Payments,0.93,Medium,Medium,0.155
+T105358,2025-11-19,URGENT: Hello,General Inquiry,General Inquiry,0.89,High,High,0.925
+T101589,2025-04-08,URGENT: Parcel issue,Shipping & Delivery,Shipping & Delivery,0.959,High,High,0.671
+T104664,2025-10-06,Account security,Account & Login,Account & Login,0.978,Medium,Medium,0.081
+T104769,2025-10-13,Cannot log in,Account & Login,Account & Login,0.976,High,High,0.995
+T104499,2025-09-25,Account access,Account & Login,Account & Login,0.893,Low,High,0.753
+T102679,2025-06-13,URGENT: Payment problem,Billing & Payments,Billing & Payments,0.977,High,High,1.0
+T102401,2025-05-28,Wrong item received,Returns & Refunds,Returns & Refunds,0.976,Low,Low,0.004
+T102308,2025-05-22,Hello,Returns & Refunds,Returns & Refunds,0.96,Medium,Medium,0.001
+T103775,2025-08-22,Replacement needed,Returns & Refunds,Returns & Refunds,0.961,Medium,Medium,0.033
+T100224,2025-01-15,Payment problem,Billing & Payments,Billing & Payments,0.961,Medium,Medium,0.016
+T105386,2025-11-20,Product information,General Inquiry,General Inquiry,0.947,Medium,Low,0.006
+T104427,2025-09-22,App problem,Technical Issue,Technical Issue,0.954,Medium,Medium,0.003
+T105131,2025-11-04,Refund status,Returns & Refunds,Returns & Refunds,0.973,Medium,Medium,0.001
+T103360,2025-07-29,Password reset,Account & Login,Account & Login,0.972,Medium,Medium,0.001
+T103743,2025-08-20,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.974,Medium,High,0.834
+T100443,2025-01-27,Invoice issue,Billing & Payments,Billing & Payments,0.977,Low,Medium,0.026
+T105663,2025-12-09,Invoice issue,Billing & Payments,Billing & Payments,0.944,Medium,Medium,0.004
+T100857,2025-02-20,Account security,Account & Login,Account & Login,0.975,Medium,Medium,0.001
+T105779,2025-12-16,Where is my order,Shipping & Delivery,Shipping & Delivery,0.583,Medium,Medium,0.037
+T104938,2025-10-23,Cannot log in,Account & Login,Account & Login,0.989,High,High,0.9
+T104400,2025-09-20,Something is not working,Technical Issue,Technical Issue,0.963,Low,Medium,0.09
+T100862,2025-02-20,Cannot log in,Account & Login,Account & Login,0.945,Low,Medium,0.204
+T103224,2025-07-21,Website error,Technical Issue,Technical Issue,0.84,High,High,0.756
+T104253,2025-09-16,Something is not working,Technical Issue,Technical Issue,0.975,High,High,0.994
+T104227,2025-09-16,Charge on my card,Billing & Payments,Billing & Payments,0.975,Medium,Medium,0.241
+T101071,2025-03-06,App problem,Technical Issue,Technical Issue,0.949,High,High,0.981
+T103966,2025-09-03,Cannot log in,Account & Login,Account & Login,0.956,High,High,0.92
+T105815,2025-12-18,Quick question,General Inquiry,General Inquiry,0.963,Low,Low,0.001
+T102934,2025-07-01,Charge on my card,Billing & Payments,Billing & Payments,0.943,Medium,Medium,0.01
+T103898,2025-08-29,Profile settings,Account & Login,Account & Login,0.973,Medium,Medium,0.003
+T103539,2025-08-08,Quick question,General Inquiry,General Inquiry,0.958,Low,Low,0.007
+T105276,2025-11-13,Payment problem,Billing & Payments,Billing & Payments,0.965,Medium,Medium,0.003
+T105876,2025-12-22,App problem,Technical Issue,Technical Issue,0.894,Medium,Medium,0.325
+T102248,2025-05-19,Wrong item received,Returns & Refunds,Returns & Refunds,0.891,Medium,Medium,0.003
+T105677,2025-12-10,URGENT: Refund status,Returns & Refunds,Returns & Refunds,0.9,Low,Low,0.006
+T102242,2025-05-18,Payment problem,Billing & Payments,Billing & Payments,0.972,High,High,0.991
+T104630,2025-10-04,Charge on my card,Billing & Payments,Billing & Payments,0.965,Medium,Medium,0.113
+T104413,2025-09-21,URGENT: Something is not working,Technical Issue,Technical Issue,0.969,High,High,1.0
+T100326,2025-01-21,Payment problem,Billing & Payments,Billing & Payments,0.811,Medium,Medium,0.005
+T103188,2025-07-18,Payment problem,Billing & Payments,Billing & Payments,0.977,Medium,Medium,0.136
+T101597,2025-04-08,Account security,Account & Login,Account & Login,0.949,Medium,Medium,0.004
+T102092,2025-05-08,Tracking question,Shipping & Delivery,Shipping & Delivery,0.958,Medium,Medium,0.016
+T104785,2025-10-14,Cannot log in,Account & Login,Account & Login,0.962,Medium,Medium,0.008
+T104996,2025-10-27,Support request,Technical Issue,Shipping & Delivery,0.534,Low,Low,0.005
+T104291,2025-09-18,Quick question,General Inquiry,General Inquiry,0.944,Low,Low,0.001
+T100323,2025-01-21,Return request,Returns & Refunds,Returns & Refunds,0.94,Medium,Medium,0.01
+T104699,2025-10-08,Need assistance,Returns & Refunds,Returns & Refunds,0.88,Medium,Medium,0.002
+T105615,2025-12-06,Replacement needed,Returns & Refunds,Returns & Refunds,0.96,Low,Low,0.019
+T103820,2025-08-25,Need assistance,Technical Issue,Technical Issue,0.623,Medium,Medium,0.073
+T100608,2025-02-05,Website error,Technical Issue,Technical Issue,0.962,Medium,Medium,0.141
+T104580,2025-10-01,Question,Returns & Refunds,Returns & Refunds,0.937,Medium,Medium,0.002
+T100076,2025-01-06,Cannot log in,Account & Login,Account & Login,0.984,Medium,Medium,0.252
+T101745,2025-04-17,Where is my order,Shipping & Delivery,Shipping & Delivery,0.967,Medium,Medium,0.057
+T102172,2025-05-13,Feature not loading,Technical Issue,Technical Issue,0.919,Low,Low,0.054
+T103217,2025-07-20,URGENT: Question,Technical Issue,Technical Issue,0.928,High,High,0.999
+T105777,2025-12-16,Partnership enquiry,General Inquiry,General Inquiry,0.934,Low,Low,0.002
+T102608,2025-06-09,URGENT: Wrong item received,Returns & Refunds,Returns & Refunds,0.978,High,High,0.998
+T101910,2025-04-28,Bug report,Technical Issue,Technical Issue,0.957,Medium,Medium,0.003
+T105051,2025-10-30,Exchange question,Returns & Refunds,Returns & Refunds,0.967,High,High,0.557
+T105262,2025-11-13,Support request,Returns & Refunds,Returns & Refunds,0.94,Medium,Medium,0.013
+T103953,2025-09-02,Password reset,Account & Login,Account & Login,0.989,High,High,0.991
+T105545,2025-12-01,App problem,Technical Issue,Technical Issue,0.941,Medium,Medium,0.001
+T101868,2025-04-24,Feature not loading,Technical Issue,Technical Issue,0.975,Medium,Medium,0.231
+T102125,2025-05-10,Bug report,Technical Issue,Technical Issue,0.964,Medium,Medium,0.017
+T104820,2025-10-17,Feedback,General Inquiry,General Inquiry,0.944,Medium,Medium,0.0
+T105289,2025-11-14,Website error,Technical Issue,Technical Issue,0.96,Low,Low,0.052
+T101617,2025-04-09,URGENT: Profile settings,Account & Login,Account & Login,0.963,Low,High,0.49
+T104629,2025-10-03,Return request,Returns & Refunds,Returns & Refunds,0.962,Low,Low,0.008
+T100791,2025-02-17,Feature not loading,Technical Issue,Technical Issue,0.976,Medium,Medium,0.14
+T102335,2025-05-23,Invoice issue,Billing & Payments,Billing & Payments,0.971,High,High,0.981
+T102160,2025-05-12,App problem,Technical Issue,Technical Issue,0.783,Medium,Medium,0.008
+T104490,2025-09-25,Website error,Technical Issue,Technical Issue,0.902,Medium,Medium,0.067
+T103821,2025-08-25,Charge on my card,Billing & Payments,Billing & Payments,0.943,Medium,Medium,0.01
+T101035,2025-03-04,Help,Technical Issue,Technical Issue,0.69,Low,Low,0.017
+T104239,2025-09-16,URGENT: Bug report,Technical Issue,Technical Issue,0.968,High,High,0.981
+T105863,2025-12-20,Need assistance,General Inquiry,General Inquiry,0.91,Low,Low,0.005
+T101317,2025-03-21,Hello,Returns & Refunds,Returns & Refunds,0.801,Medium,Medium,0.002
+T103135,2025-07-15,App problem,Technical Issue,Technical Issue,0.946,Medium,Medium,0.002
+T105800,2025-12-17,Where is my order,Shipping & Delivery,Shipping & Delivery,0.724,High,High,0.973
+T101419,2025-03-28,Profile settings,Account & Login,Account & Login,0.959,Low,Low,0.007
+T105036,2025-10-29,Wrong amount billed,Billing & Payments,Billing & Payments,0.975,Medium,Medium,0.074
+T103657,2025-08-15,Payment problem,Billing & Payments,Billing & Payments,0.967,Medium,Medium,0.044
+T105465,2025-11-25,Invoice issue,Billing & Payments,Billing & Payments,0.83,Low,Low,0.017
+T101923,2025-04-29,Account access,Account & Login,Account & Login,0.977,Medium,Medium,0.134
+T104964,2025-10-25,Bug report,Technical Issue,Technical Issue,0.965,Medium,High,0.783
+T103345,2025-07-28,Invoice issue,Billing & Payments,Billing & Payments,0.963,Low,Low,0.07
+T105607,2025-12-05,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.973,Low,Low,0.007
+T104827,2025-10-17,Return request,Returns & Refunds,Returns & Refunds,0.975,Medium,Medium,0.0
+T101171,2025-03-12,Help,Account & Login,Technical Issue,0.527,Low,Low,0.004
+T100633,2025-02-07,Cannot log in,Account & Login,Account & Login,0.79,Medium,Medium,0.027
+T100182,2025-01-13,URGENT: Account security,Account & Login,Account & Login,0.932,High,High,0.991
+T105644,2025-12-08,Feature not loading,Technical Issue,Technical Issue,0.961,Medium,Medium,0.001
+T104661,2025-10-06,Where is my order,Shipping & Delivery,Shipping & Delivery,0.926,Medium,Medium,0.0
+T105133,2025-11-04,Payment problem,Billing & Payments,Billing & Payments,0.969,Low,Low,0.106
+T104351,2025-09-19,URGENT: Feature not loading,Technical Issue,Technical Issue,0.982,High,High,0.998
+T104403,2025-09-21,Partnership enquiry,General Inquiry,General Inquiry,0.957,Low,Low,0.003
+T100964,2025-02-28,App problem,Technical Issue,Technical Issue,0.975,High,High,0.994
+T104803,2025-10-16,App problem,Technical Issue,Technical Issue,0.946,Low,Low,0.012
+T103818,2025-08-25,Tracking question,Shipping & Delivery,Shipping & Delivery,0.874,Low,Low,0.19
+T100770,2025-02-15,URGENT: Password reset,Account & Login,Account & Login,0.916,High,High,0.997
+T104022,2025-09-05,Profile settings,Account & Login,Account & Login,0.993,High,High,0.989
+T103490,2025-08-06,Charge on my card,Billing & Payments,Billing & Payments,0.968,Low,High,0.907
+T103207,2025-07-19,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.978,Medium,Medium,0.089
+T104531,2025-09-27,Question,Billing & Payments,Billing & Payments,0.935,Medium,Medium,0.001
+T105400,2025-11-21,Need assistance,Billing & Payments,Billing & Payments,0.78,Medium,Medium,0.009
+T105776,2025-12-16,Something is not working,Technical Issue,Technical Issue,0.92,High,High,0.967
+T105867,2025-12-21,Wrong amount billed,Billing & Payments,Billing & Payments,0.866,Low,Low,0.003
+T103618,2025-08-13,Return request,Returns & Refunds,Returns & Refunds,0.942,Medium,Medium,0.006
+T102119,2025-05-09,Replacement needed,Returns & Refunds,Returns & Refunds,0.955,Medium,High,0.561
+T102993,2025-07-04,Information request,General Inquiry,General Inquiry,0.953,Low,Low,0.008
+T103526,2025-08-07,Account access,Account & Login,Account & Login,0.977,Medium,Medium,0.189
+T103639,2025-08-14,Return request,Returns & Refunds,Returns & Refunds,0.954,High,High,0.955
+T100143,2025-01-09,Wrong item received,Returns & Refunds,Returns & Refunds,0.899,High,High,0.894
+T104342,2025-09-19,Feature not loading,Technical Issue,Technical Issue,0.973,High,High,0.927
+T102924,2025-07-01,URGENT: Something is not working,Technical Issue,Technical Issue,0.838,High,High,0.988
+T102072,2025-05-07,Billing question,Billing & Payments,Billing & Payments,0.954,Medium,Medium,0.053
+T104509,2025-09-26,Payment problem,Billing & Payments,Billing & Payments,0.949,Medium,Medium,0.0
+T101534,2025-04-04,Feature not loading,Technical Issue,Technical Issue,0.976,Medium,Medium,0.018
+T105399,2025-11-21,Where is my order,Shipping & Delivery,Returns & Refunds,0.593,Low,Low,0.006
+T100979,2025-02-28,Help,Shipping & Delivery,Shipping & Delivery,0.896,High,High,0.703
+T104364,2025-09-19,Return request,Returns & Refunds,Returns & Refunds,0.957,Medium,Medium,0.001
+T102220,2025-05-16,Hello,Billing & Payments,Billing & Payments,0.93,Medium,Medium,0.001
+T105355,2025-11-18,Product information,General Inquiry,General Inquiry,0.965,Low,Low,0.003
+T101309,2025-03-21,Feature not loading,Technical Issue,Technical Issue,0.979,Medium,Medium,0.008
+T103117,2025-07-14,Support request,Technical Issue,Technical Issue,0.737,High,High,0.727
+T101326,2025-03-22,Tracking question,Shipping & Delivery,Shipping & Delivery,0.965,Medium,Medium,0.03
+T102359,2025-05-26,Refund status,Returns & Refunds,Returns & Refunds,0.936,Low,Low,0.027
+T104268,2025-09-17,Refund status,Returns & Refunds,Returns & Refunds,0.975,Low,Low,0.012
+T104667,2025-10-06,Replacement needed,Returns & Refunds,Returns & Refunds,0.975,Medium,Low,0.014
+T102357,2025-05-26,Re: my issue,General Inquiry,General Inquiry,0.695,Low,Low,0.023
+T105095,2025-11-02,Invoice issue,Billing & Payments,Billing & Payments,0.963,Medium,Low,0.037
+T104902,2025-10-22,Charge on my card,Billing & Payments,Billing & Payments,0.971,Medium,Medium,0.181
+T104919,2025-10-22,Question,Returns & Refunds,Returns & Refunds,0.918,Medium,Medium,0.18
+T102683,2025-06-13,Invoice issue,Billing & Payments,Billing & Payments,0.969,Low,Low,0.004
+T101135,2025-03-10,Help,Returns & Refunds,Returns & Refunds,0.907,Low,Low,0.002
+T103996,2025-09-04,Replacement needed,Returns & Refunds,Returns & Refunds,0.96,Medium,Medium,0.001
+T100070,2025-01-06,Hello,Account & Login,Account & Login,0.636,Low,Low,0.004
+T101037,2025-03-04,Hello,Account & Login,Account & Login,0.909,High,High,0.992
+T100499,2025-01-30,Wrong item received,Returns & Refunds,Returns & Refunds,0.974,Low,Medium,0.049
+T102698,2025-06-16,Account security,Account & Login,Account & Login,0.931,Low,Low,0.051
+T103097,2025-07-11,Charge on my card,Billing & Payments,Billing & Payments,0.971,Medium,Medium,0.181
+T105612,2025-12-05,App problem,Technical Issue,Technical Issue,0.889,High,High,0.907
+T101318,2025-03-21,Account access,Account & Login,Account & Login,0.977,Low,Medium,0.134
+T102819,2025-06-24,Exchange question,Returns & Refunds,Returns & Refunds,0.947,Medium,Medium,0.003
+T102659,2025-06-12,Bug report,Technical Issue,Technical Issue,0.966,Medium,Medium,0.0
+T100657,2025-02-08,Charge on my card,Billing & Payments,Billing & Payments,0.953,Low,Low,0.327
+T105633,2025-12-08,Information request,General Inquiry,General Inquiry,0.939,Low,Low,0.004
+T104752,2025-10-13,Profile settings,Account & Login,Account & Login,0.966,Low,Low,0.085
+T105951,2025-12-25,Cannot log in,Account & Login,Account & Login,0.986,High,High,0.992
+T104475,2025-09-24,Bug report,Technical Issue,Technical Issue,0.968,High,High,0.592
+T103683,2025-08-17,URGENT: Return request,Returns & Refunds,Returns & Refunds,0.954,High,High,0.956
+T103180,2025-07-17,Account access,Account & Login,Account & Login,0.816,Low,Low,0.039
+T103238,2025-07-21,Payment problem,Billing & Payments,Billing & Payments,0.964,Medium,Medium,0.003
+T104010,2025-09-04,Charge on my card,Billing & Payments,Billing & Payments,0.926,Medium,Medium,0.005
+T104659,2025-10-06,Question,Account & Login,Account & Login,0.901,Medium,High,0.594
+T104912,2025-10-22,Partnership enquiry,General Inquiry,General Inquiry,0.951,Medium,Medium,0.023
+T100209,2025-01-14,URGENT: Account security,Account & Login,Account & Login,0.981,High,High,0.989
+T100667,2025-02-09,Something is not working,Technical Issue,Technical Issue,0.897,Medium,Medium,0.03
+T101978,2025-05-02,URGENT: Need assistance,Technical Issue,Technical Issue,0.618,High,High,0.991
+T103497,2025-08-06,Tracking question,Shipping & Delivery,Shipping & Delivery,0.936,Low,Low,0.031
+T105004,2025-10-28,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.962,Medium,Medium,0.0
+T105174,2025-11-07,Re: my issue,General Inquiry,General Inquiry,0.865,Medium,Medium,0.0
+T100789,2025-02-17,Account access,Account & Login,Account & Login,0.92,Medium,Medium,0.003
+T105839,2025-12-19,Wrong amount billed,Billing & Payments,Billing & Payments,0.965,Medium,Medium,0.002
+T104221,2025-09-16,Something is not working,Technical Issue,Technical Issue,0.947,High,Medium,0.357
+T103148,2025-07-16,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.916,Medium,Medium,0.016
+T105193,2025-11-08,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.97,Medium,Medium,0.002
+T102965,2025-07-03,Wrong item received,Returns & Refunds,Returns & Refunds,0.961,Low,Medium,0.018
+T104978,2025-10-26,Cannot log in,Account & Login,Account & Login,0.955,Medium,Medium,0.025
+T102843,2025-06-25,Bug report,Technical Issue,Technical Issue,0.956,Low,Low,0.007
+T100399,2025-01-24,URGENT: Tracking question,Shipping & Delivery,Shipping & Delivery,0.964,High,High,0.981
+T100796,2025-02-17,Wrong amount billed,Billing & Payments,Billing & Payments,0.969,Medium,Medium,0.029
+T103872,2025-08-28,Return request,Returns & Refunds,Returns & Refunds,0.894,Low,Low,0.063
+T105878,2025-12-22,URGENT: Password reset,Account & Login,Account & Login,0.956,High,Low,0.288
+T102316,2025-05-22,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.906,Medium,Medium,0.003
+T101871,2025-04-25,Return request,Returns & Refunds,Returns & Refunds,0.978,Low,Low,0.014
+T101503,2025-04-02,Exchange question,Returns & Refunds,Returns & Refunds,0.937,Low,Low,0.024
+T105680,2025-12-10,Need assistance,Account & Login,Account & Login,0.943,High,High,0.991
+T101666,2025-04-12,Payment problem,Billing & Payments,Billing & Payments,0.969,High,High,0.975
+T105427,2025-11-23,URGENT: Cannot log in,Account & Login,Account & Login,0.978,High,High,1.0
+T100773,2025-02-15,Return request,Returns & Refunds,Returns & Refunds,0.934,High,High,0.976
+T104610,2025-10-03,Information request,General Inquiry,General Inquiry,0.934,Medium,Medium,0.002
+T104339,2025-09-19,Feature not loading,Technical Issue,Technical Issue,0.974,High,High,0.982
+T101701,2025-04-15,Tracking question,Shipping & Delivery,Shipping & Delivery,0.891,Low,Low,0.011
+T105699,2025-12-11,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.949,Medium,Medium,0.006
+T103357,2025-07-29,Help,Billing & Payments,Billing & Payments,0.898,High,High,0.566
+T105375,2025-11-20,Information request,General Inquiry,General Inquiry,0.962,Low,Low,0.0
+T100856,2025-02-20,Payment problem,Billing & Payments,Billing & Payments,0.982,Low,Medium,0.073
+T103283,2025-07-24,Account access,Account & Login,Account & Login,0.9,High,Low,0.216
+T103358,2025-07-29,Feedback,General Inquiry,General Inquiry,0.949,Medium,Low,0.0
+T101409,2025-03-28,Account security,Account & Login,Account & Login,0.967,Low,Low,0.319
+T102804,2025-06-23,URGENT: Hello,Technical Issue,Technical Issue,0.932,High,High,0.959
+T100571,2025-02-03,Where is my order,Shipping & Delivery,Shipping & Delivery,0.96,High,High,0.993
+T101889,2025-04-25,Website error,Technical Issue,Technical Issue,0.965,Medium,Medium,0.002
+T103849,2025-08-27,Wrong item received,Returns & Refunds,Returns & Refunds,0.924,Low,Low,0.023
+T102590,2025-06-08,Product information,General Inquiry,General Inquiry,0.918,Low,Low,0.003
+T104483,2025-09-24,Tracking question,Shipping & Delivery,Shipping & Delivery,0.967,Medium,Medium,0.0
+T101862,2025-04-24,Question,Returns & Refunds,Returns & Refunds,0.824,Low,Low,0.002
+T105735,2025-12-13,Account access,Account & Login,Account & Login,0.993,High,High,0.985
+T105411,2025-11-21,URGENT: App problem,Technical Issue,Technical Issue,0.975,High,High,1.0
+T105856,2025-12-20,Profile settings,Account & Login,Account & Login,0.982,Medium,Low,0.145
+T102108,2025-05-09,Bug report,Technical Issue,Technical Issue,0.718,Low,Medium,0.107
+T102374,2025-05-26,Support request,Account & Login,Shipping & Delivery,0.808,Medium,Medium,0.001
+T100171,2025-01-11,Where is my order,Shipping & Delivery,Shipping & Delivery,0.874,Medium,High,0.415
+T100368,2025-01-23,Charge on my card,Billing & Payments,Billing & Payments,0.895,Medium,Low,0.011
+T102923,2025-07-01,Exchange question,Returns & Refunds,Returns & Refunds,0.957,Medium,Low,0.017
+T102024,2025-05-05,Account access,Account & Login,Account & Login,0.931,Medium,Medium,0.004
+T104410,2025-09-21,Need assistance,Technical Issue,Technical Issue,0.766,High,High,0.919
+T103259,2025-07-22,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.955,Medium,Medium,0.0
+T100492,2025-01-29,URGENT: Password reset,Account & Login,Account & Login,0.987,High,High,0.998
+T100913,2025-02-25,Feature not loading,Technical Issue,Technical Issue,0.946,High,Low,0.192
+T105862,2025-12-20,URGENT: Where is my order,Shipping & Delivery,Shipping & Delivery,0.913,High,Low,0.161
+T100606,2025-02-05,Tracking question,Shipping & Delivery,Shipping & Delivery,0.942,Medium,Medium,0.004
+T105618,2025-12-06,Payment problem,Billing & Payments,Billing & Payments,0.975,High,High,0.998
+T101592,2025-04-08,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.961,Medium,Medium,0.002
+T101219,2025-03-15,Password reset,Account & Login,Account & Login,0.965,Medium,Medium,0.001
+T103353,2025-07-29,URGENT: Replacement needed,Billing & Payments,Returns & Refunds,0.974,High,High,0.996
+T104111,2025-09-11,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.943,High,High,0.954
+T100607,2025-02-05,Wrong item received,Returns & Refunds,Returns & Refunds,0.954,Low,Low,0.014
+T101973,2025-05-01,Feedback,General Inquiry,Billing & Payments,0.517,Low,Low,0.016
+T105389,2025-11-20,Cannot log in,Account & Login,Account & Login,0.788,Low,Low,0.006
+T102068,2025-05-07,Refund status,Returns & Refunds,Returns & Refunds,0.962,Medium,Medium,0.032
+T103032,2025-07-08,Charge on my card,Billing & Payments,Billing & Payments,0.758,Low,Low,0.001
+T105216,2025-11-10,Question,Returns & Refunds,Returns & Refunds,0.917,Medium,Medium,0.006
+T105544,2025-12-01,Charge on my card,Billing & Payments,Billing & Payments,0.959,Low,Low,0.191
+T105994,2025-12-29,Return request,Returns & Refunds,Returns & Refunds,0.952,Low,Low,0.013
+T104478,2025-09-24,App problem,Technical Issue,Technical Issue,0.867,Medium,Medium,0.003
+T104916,2025-10-22,Feature not loading,Technical Issue,Technical Issue,0.711,Medium,Medium,0.01
+T103665,2025-08-15,Exchange question,Returns & Refunds,Returns & Refunds,0.967,Medium,Medium,0.001
+T104882,2025-10-21,Re: my issue,General Inquiry,General Inquiry,0.857,Low,Low,0.001
+T101819,2025-04-22,Wrong amount billed,Billing & Payments,Billing & Payments,0.965,High,High,0.992
+T105231,2025-11-11,Quick question,General Inquiry,General Inquiry,0.774,Low,Low,0.069
+T103469,2025-08-05,URGENT: Support request,Technical Issue,Technical Issue,0.898,High,High,0.995
+T103663,2025-08-15,Charge on my card,Billing & Payments,Billing & Payments,0.88,High,High,0.779
+T104783,2025-10-14,Partnership enquiry,General Inquiry,General Inquiry,0.972,Low,Low,0.001
+T105244,2025-11-12,Something is not working,Technical Issue,Technical Issue,0.668,Low,Low,0.174
+T105895,2025-12-23,Quick question,General Inquiry,General Inquiry,0.96,Low,Low,0.003
+T104776,2025-10-14,Invoice issue,Billing & Payments,Billing & Payments,0.908,High,High,0.976
+T102878,2025-06-27,Bug report,General Inquiry,Technical Issue,0.97,Medium,Medium,0.003
+T101916,2025-04-28,App problem,Technical Issue,Technical Issue,0.907,High,High,0.486
+T104359,2025-09-19,Website error,Technical Issue,Technical Issue,0.963,Medium,Medium,0.003
+T104639,2025-10-05,Refund status,Returns & Refunds,Returns & Refunds,0.966,Medium,Medium,0.001
+T103620,2025-08-13,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.767,Low,Low,0.034
+T103932,2025-09-01,Return request,Returns & Refunds,Returns & Refunds,0.968,Medium,Medium,0.001
+T101284,2025-03-19,Account access,Account & Login,Account & Login,0.991,High,High,0.993
+T100878,2025-02-21,Tracking question,Shipping & Delivery,Shipping & Delivery,0.937,Medium,Medium,0.006
+T103063,2025-07-09,Bug report,Technical Issue,Technical Issue,0.895,High,High,0.887
+T102234,2025-05-17,Billing question,Billing & Payments,Billing & Payments,0.982,Medium,Medium,0.08
+T105184,2025-11-07,Refund status,Shipping & Delivery,Returns & Refunds,0.965,Medium,Medium,0.003
+T105952,2025-12-25,Replacement needed,Returns & Refunds,Returns & Refunds,0.974,Medium,High,0.529
+T102344,2025-05-24,Wrong item received,Returns & Refunds,Returns & Refunds,0.952,High,High,0.799
+T104199,2025-09-15,Cannot log in,Account & Login,Account & Login,0.981,High,High,0.997
+T103026,2025-07-07,Payment problem,Billing & Payments,Billing & Payments,0.961,Medium,Medium,0.009
+T105555,2025-12-02,Cannot log in,Account & Login,Account & Login,0.957,Low,Low,0.015
+T104541,2025-09-28,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.678,Low,Low,0.057
+T104311,2025-09-18,Invoice issue,Billing & Payments,Billing & Payments,0.856,High,Low,0.361
+T105087,2025-11-01,URGENT: Bug report,Technical Issue,Technical Issue,0.977,High,High,0.999
+T104371,2025-09-19,Bug report,Technical Issue,Technical Issue,0.964,High,High,0.878
+T104906,2025-10-22,Wrong item received,Returns & Refunds,Returns & Refunds,0.958,Medium,Medium,0.003
+T100348,2025-01-22,Wrong item received,Returns & Refunds,Returns & Refunds,0.949,Low,Low,0.035
+T104663,2025-10-06,Account access,Billing & Payments,Account & Login,0.953,Medium,Medium,0.001
+T102913,2025-06-30,Wrong amount billed,Billing & Payments,Billing & Payments,0.954,Low,Low,0.004
+T103327,2025-07-27,Information request,General Inquiry,General Inquiry,0.956,Low,Low,0.002
+T102297,2025-05-21,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.961,High,High,0.971
+T100486,2025-01-29,URGENT: Support request,Shipping & Delivery,Shipping & Delivery,0.932,High,High,0.853
+T103787,2025-08-22,Payment problem,Billing & Payments,Billing & Payments,0.654,Low,Low,0.004
+T105576,2025-12-03,Hello,Account & Login,Account & Login,0.913,Medium,Medium,0.001
+T105774,2025-12-16,Feature not loading,Technical Issue,Technical Issue,0.869,Low,Low,0.007
+T102920,2025-07-01,Password reset,Account & Login,Account & Login,0.937,Medium,Medium,0.0
+T104476,2025-09-24,Website error,Technical Issue,Technical Issue,0.934,Medium,Medium,0.005
+T104357,2025-09-19,URGENT: Bug report,Technical Issue,Technical Issue,0.976,High,High,0.996
+T102107,2025-05-09,Invoice issue,Billing & Payments,Billing & Payments,0.859,Medium,Medium,0.011
+T103163,2025-07-17,Website error,Technical Issue,Technical Issue,0.913,High,High,0.957
+T103500,2025-08-06,Parcel issue,General Inquiry,Shipping & Delivery,0.823,Medium,Medium,0.003
+T101742,2025-04-17,Feature not loading,Technical Issue,Technical Issue,0.975,High,High,0.849
+T101005,2025-03-02,Password reset,Account & Login,Account & Login,0.972,Medium,Medium,0.002
+T102056,2025-05-07,Wrong item received,Returns & Refunds,Returns & Refunds,0.971,Low,Low,0.012
+T105100,2025-11-03,Exchange question,Returns & Refunds,Returns & Refunds,0.909,Medium,Medium,0.029
+T101754,2025-04-17,URGENT: Quick question,General Inquiry,General Inquiry,0.942,High,Low,0.363
+T104771,2025-10-13,Something is not working,General Inquiry,Technical Issue,0.976,Medium,Low,0.145
+T100969,2025-02-28,Quick question,General Inquiry,General Inquiry,0.96,Low,Low,0.006
+T100103,2025-01-07,Wrong amount billed,Billing & Payments,Billing & Payments,0.978,High,High,0.971
+T101812,2025-04-21,Help,General Inquiry,General Inquiry,0.903,Low,Low,0.001
+T105112,2025-11-03,Bug report,Technical Issue,Technical Issue,0.962,Medium,Medium,0.042
+T100023,2025-01-02,URGENT: Feature not loading,Technical Issue,Technical Issue,0.978,High,High,0.999
+T100604,2025-02-05,Hello,Technical Issue,Technical Issue,0.913,Medium,Medium,0.0
+T105141,2025-11-05,App problem,Technical Issue,Technical Issue,0.879,High,High,0.948
+T104104,2025-09-10,Refund status,Returns & Refunds,Returns & Refunds,0.965,Medium,Medium,0.002
+T105008,2025-10-28,App problem,Technical Issue,Technical Issue,0.932,Medium,Medium,0.003
+T102425,2025-05-29,Support request,Billing & Payments,Billing & Payments,0.903,Medium,Medium,0.039
+T101243,2025-03-17,Partnership enquiry,General Inquiry,General Inquiry,0.96,Low,Low,0.008
+T102477,2025-06-02,Return request,Returns & Refunds,Returns & Refunds,0.95,Medium,Medium,0.042
+T104640,2025-10-05,Support request,Returns & Refunds,Returns & Refunds,0.663,Medium,Medium,0.006
+T104110,2025-09-11,Where is my order,Shipping & Delivery,Shipping & Delivery,0.959,Medium,High,0.571
+T100547,2025-02-01,Need assistance,Returns & Refunds,Returns & Refunds,0.91,Medium,Medium,0.044
+T105261,2025-11-13,Feature not loading,Technical Issue,Technical Issue,0.94,Low,Low,0.067
+T104527,2025-09-26,Billing question,Billing & Payments,Billing & Payments,0.736,Low,Low,0.002
+T105937,2025-12-25,Quick question,General Inquiry,General Inquiry,0.944,Low,Low,0.001
+T105979,2025-12-27,Password reset,Account & Login,Account & Login,0.964,Medium,High,0.475
+T105625,2025-12-07,Profile settings,Account & Login,Account & Login,0.875,Medium,Low,0.191
+T102184,2025-05-14,Quick question,General Inquiry,General Inquiry,0.963,Low,Low,0.001
+T102785,2025-06-21,Feature not loading,Technical Issue,Technical Issue,0.96,Low,Low,0.014
+T100055,2025-01-04,Product information,General Inquiry,General Inquiry,0.957,Low,Low,0.002
+T104497,2025-09-25,Password reset,Account & Login,Account & Login,0.659,Low,Low,0.03
+T105552,2025-12-01,Bug report,Technical Issue,Technical Issue,0.959,Medium,Low,0.029
+T105422,2025-11-23,URGENT: Billing question,Billing & Payments,Billing & Payments,0.961,High,High,0.971
+T103436,2025-08-01,Profile settings,Account & Login,Account & Login,0.943,Medium,Medium,0.01
+T102911,2025-06-30,Charge on my card,Billing & Payments,Billing & Payments,0.962,Low,Low,0.008
+T101766,2025-04-18,URGENT: Delivery problem,Shipping & Delivery,Shipping & Delivery,0.968,High,High,0.955
+T105170,2025-11-06,Re: my issue,Shipping & Delivery,Shipping & Delivery,0.925,Medium,Medium,0.0
+T101316,2025-03-21,Profile settings,Account & Login,Account & Login,0.969,High,High,0.481
+T103723,2025-08-19,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.742,Low,Low,0.034
+T104305,2025-09-18,Bug report,Technical Issue,Technical Issue,0.807,Medium,Medium,0.002
+T100369,2025-01-23,Partnership enquiry,General Inquiry,General Inquiry,0.959,Medium,Medium,0.005
+T102763,2025-06-19,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.933,Medium,Medium,0.011
+T102118,2025-05-09,App problem,Technical Issue,Technical Issue,0.951,Low,Low,0.025
+T100896,2025-02-24,Support request,Returns & Refunds,Returns & Refunds,0.581,Low,Medium,0.051
+T102671,2025-06-13,Wrong item received,Returns & Refunds,Returns & Refunds,0.975,Low,Low,0.047
+T102232,2025-05-17,Product information,General Inquiry,General Inquiry,0.955,Low,Low,0.006
+T100818,2025-02-18,Charge on my card,Billing & Payments,Billing & Payments,0.959,Medium,Medium,0.206
+T100059,2025-01-04,Account security,Account & Login,Account & Login,0.95,Medium,Medium,0.0
+T103854,2025-08-27,Feedback,General Inquiry,General Inquiry,0.716,Low,Low,0.017
+T101346,2025-03-24,Website error,Technical Issue,Technical Issue,0.971,High,High,0.992
+T104696,2025-10-08,Website error,Technical Issue,Technical Issue,0.969,Medium,Medium,0.001
+T105130,2025-11-04,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.917,Medium,Medium,0.0
+T105047,2025-10-30,Exchange question,Returns & Refunds,Returns & Refunds,0.968,Medium,Medium,0.026
+T102402,2025-05-28,Return request,Returns & Refunds,Returns & Refunds,0.974,Medium,Medium,0.038
+T101260,2025-03-18,Website error,Technical Issue,Technical Issue,0.961,Medium,Low,0.016
+T105259,2025-11-13,Account access,Account & Login,Account & Login,0.974,High,High,0.751
+T101469,2025-03-31,Cannot log in,Account & Login,Account & Login,0.975,Low,Medium,0.144
+T102524,2025-06-04,Password reset,Account & Login,Account & Login,0.957,High,High,0.931
+T102420,2025-05-28,Invoice issue,Billing & Payments,Billing & Payments,0.916,Medium,Low,0.02
+T100889,2025-02-23,Billing question,Billing & Payments,Billing & Payments,0.875,Medium,Medium,0.003
+T105495,2025-11-27,Invoice issue,Billing & Payments,Billing & Payments,0.977,Medium,Medium,0.026
+T105333,2025-11-17,Tracking question,Shipping & Delivery,Shipping & Delivery,0.94,Medium,Medium,0.0
+T100225,2025-01-15,Wrong amount billed,Billing & Payments,Billing & Payments,0.96,Medium,Medium,0.009
+T102436,2025-05-29,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.955,High,High,0.967
+T103987,2025-09-03,Feedback,General Inquiry,General Inquiry,0.768,Low,Low,0.008
+T103811,2025-08-25,URGENT: Return request,Returns & Refunds,Returns & Refunds,0.968,High,High,0.996
+T102389,2025-05-27,Invoice issue,Billing & Payments,Billing & Payments,0.951,Medium,Medium,0.002
+T102770,2025-06-20,Where is my order,Shipping & Delivery,Shipping & Delivery,0.962,High,High,0.993
+T104816,2025-10-17,Account access,Account & Login,Account & Login,0.881,Low,Medium,0.053
+T101184,2025-03-13,Website error,Technical Issue,Technical Issue,0.959,Medium,Medium,0.002
+T104631,2025-10-04,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.919,Medium,Medium,0.081
+T100319,2025-01-20,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.948,Low,Low,0.011
+T104178,2025-09-15,App problem,Technical Issue,Technical Issue,0.967,High,High,0.695
+T103881,2025-08-28,Feature not loading,Technical Issue,Technical Issue,0.735,Medium,Medium,0.012
+T101932,2025-04-29,Support request,Account & Login,Account & Login,0.904,Medium,Medium,0.001
+T100774,2025-02-16,URGENT: Profile settings,Account & Login,Account & Login,0.98,High,High,1.0
+T105715,2025-12-12,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.966,Low,Low,0.012
+T105671,2025-12-10,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.964,Medium,Medium,0.0
+T103984,2025-09-03,Information request,General Inquiry,General Inquiry,0.768,Low,Low,0.002
+T104392,2025-09-20,Feature not loading,Technical Issue,Technical Issue,0.951,High,High,0.988
+T101086,2025-03-07,URGENT: Re: my issue,Returns & Refunds,Returns & Refunds,0.877,Low,Low,0.389
+T103448,2025-08-03,URGENT: Shipping delay,Shipping & Delivery,Shipping & Delivery,0.959,High,High,0.993
+T105421,2025-11-23,Bug report,Technical Issue,Technical Issue,0.964,High,High,0.987
+T105571,2025-12-03,Support request,Billing & Payments,Billing & Payments,0.938,Medium,Medium,0.005
+T102270,2025-05-20,Hello,Returns & Refunds,Billing & Payments,0.554,Low,Medium,0.042
+T102860,2025-06-26,Invoice issue,Billing & Payments,Billing & Payments,0.982,High,High,0.71
+T100962,2025-02-27,Replacement needed,Returns & Refunds,Returns & Refunds,0.979,Medium,Medium,0.035
+T103040,2025-07-08,Profile settings,Account & Login,Account & Login,0.81,Medium,Medium,0.009
+T101158,2025-03-11,Something is not working,Technical Issue,Technical Issue,0.961,Medium,Medium,0.003
+T103991,2025-09-03,Password reset,Account & Login,Account & Login,0.976,High,High,0.986
+T103656,2025-08-15,Website error,Technical Issue,Technical Issue,0.97,Medium,Medium,0.013
+T100660,2025-02-08,URGENT: Feature not loading,Technical Issue,Technical Issue,0.969,High,High,0.999
+T101246,2025-03-17,Wrong item received,Returns & Refunds,Returns & Refunds,0.971,Low,Low,0.248
+T104508,2025-09-26,Bug report,Technical Issue,Technical Issue,0.951,Medium,Medium,0.001
+T100021,2025-01-02,Something is not working,Technical Issue,Technical Issue,0.932,High,High,0.914
+T103759,2025-08-21,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.94,Low,Medium,0.032
+T104577,2025-10-01,Something is not working,Technical Issue,Technical Issue,0.808,Medium,Medium,0.004
+T101556,2025-04-05,Need assistance,Billing & Payments,Billing & Payments,0.859,Low,Low,0.003
+T100037,2025-01-03,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.972,Medium,Medium,0.001
+T102403,2025-05-28,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.967,Low,Low,0.268
+T102193,2025-05-15,Cannot log in,Account & Login,Account & Login,0.95,Medium,Medium,0.011
+T105064,2025-10-30,Need assistance,Technical Issue,Technical Issue,0.76,Medium,Low,0.068
+T102261,2025-05-19,Question,Billing & Payments,Billing & Payments,0.943,High,High,0.623
+T102494,2025-06-03,Feature not loading,Technical Issue,Technical Issue,0.975,High,High,0.909
+T102343,2025-05-24,URGENT: Shipping delay,Shipping & Delivery,Shipping & Delivery,0.936,Low,High,0.691
+T104120,2025-09-11,Need assistance,Shipping & Delivery,Billing & Payments,0.523,Low,High,0.744
+T101712,2025-04-15,Re: my issue,Billing & Payments,Billing & Payments,0.851,High,Medium,0.379
+T104625,2025-10-03,Payment problem,Billing & Payments,Billing & Payments,0.967,Medium,Medium,0.001
+T101186,2025-03-13,Something is not working,Technical Issue,Technical Issue,0.749,Low,Low,0.127
+T101382,2025-03-26,Invoice issue,Billing & Payments,Billing & Payments,0.981,High,High,0.974
+T102078,2025-05-07,URGENT: Replacement needed,Returns & Refunds,Returns & Refunds,0.97,High,High,0.995
+T102739,2025-06-18,Feedback,General Inquiry,General Inquiry,0.961,Low,Low,0.002
+T101453,2025-03-30,Account access,Account & Login,Account & Login,0.858,Low,Low,0.021
+T101137,2025-03-10,Question,Technical Issue,Technical Issue,0.941,Medium,Medium,0.004
+T100015,2025-01-02,Profile settings,Account & Login,Account & Login,0.972,High,High,0.991
+T102295,2025-05-21,Re: my issue,General Inquiry,General Inquiry,0.793,Low,Low,0.015
+T101315,2025-03-21,Billing question,Billing & Payments,Billing & Payments,0.972,Medium,Medium,0.003
+T103794,2025-08-23,Password reset,Account & Login,Account & Login,0.966,High,High,0.494
+T104452,2025-09-23,Tracking question,Shipping & Delivery,Shipping & Delivery,0.815,Medium,Low,0.154
+T100458,2025-01-27,URGENT: Payment problem,Billing & Payments,Billing & Payments,0.975,High,High,0.998
+T105404,2025-11-21,Password reset,Account & Login,Account & Login,0.941,High,High,0.933
+T105634,2025-12-08,Partnership enquiry,General Inquiry,General Inquiry,0.865,Low,Low,0.001
+T105181,2025-11-07,URGENT: Something is not working,Technical Issue,Technical Issue,0.955,High,High,0.996
+T105468,2025-11-25,Wrong amount billed,Billing & Payments,Billing & Payments,0.887,Medium,High,0.725
+T102909,2025-06-30,URGENT: Invoice issue,Billing & Payments,Billing & Payments,0.981,High,High,0.998
+T105445,2025-11-24,Account access,Account & Login,Account & Login,0.945,Low,Medium,0.049
+T103506,2025-08-06,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.778,Medium,Medium,0.009
+T103225,2025-07-21,Password reset,Account & Login,Account & Login,0.957,High,High,0.951
+T102577,2025-06-07,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.96,Medium,Medium,0.008
+T106024,2025-12-31,Something is not working,Technical Issue,Technical Issue,0.966,Medium,Medium,0.002
+T100510,2025-01-30,Return request,Returns & Refunds,Returns & Refunds,0.961,Medium,Medium,0.001
+T103891,2025-08-29,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.967,Low,Low,0.002
+T101854,2025-04-24,URGENT: Password reset,Account & Login,Account & Login,0.981,High,High,0.996
+T100932,2025-02-26,Invoice issue,Billing & Payments,Billing & Payments,0.774,Low,Low,0.004
+T105782,2025-12-16,Return request,Returns & Refunds,Returns & Refunds,0.965,Medium,Medium,0.002
+T101893,2025-04-25,Account security,Account & Login,Account & Login,0.952,Medium,Low,0.084
+T103671,2025-08-16,Feedback,General Inquiry,General Inquiry,0.968,Low,Low,0.002
+T100482,2025-01-29,Refund status,Returns & Refunds,Returns & Refunds,0.966,Medium,Medium,0.001
+T102491,2025-06-02,Profile settings,Account & Login,Account & Login,0.984,Medium,Medium,0.214
+T101507,2025-04-02,URGENT: Invoice issue,Billing & Payments,Billing & Payments,0.971,High,High,0.999
+T103921,2025-08-31,Where is my order,Shipping & Delivery,Shipping & Delivery,0.512,Medium,Medium,0.077
+T104760,2025-10-13,Where is my order,Shipping & Delivery,Shipping & Delivery,0.555,High,Low,0.303
+T100202,2025-01-14,Return request,Returns & Refunds,Returns & Refunds,0.981,Medium,Low,0.374
+T103518,2025-08-07,Refund status,Returns & Refunds,Returns & Refunds,0.977,Medium,Medium,0.001
+T103564,2025-08-10,Quick question,General Inquiry,General Inquiry,0.946,Low,Low,0.005
+T103080,2025-07-10,Feature not loading,Technical Issue,Technical Issue,0.971,Medium,Medium,0.161
+T104991,2025-10-27,Feature not loading,Technical Issue,Technical Issue,0.88,High,High,0.906
+T103645,2025-08-14,App problem,Technical Issue,Technical Issue,0.956,Medium,Medium,0.003
+T104223,2025-09-16,Bug report,Technical Issue,Technical Issue,0.976,High,High,0.7
+T101282,2025-03-19,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.973,Medium,Medium,0.027
+T105603,2025-12-05,URGENT: Bug report,Technical Issue,Technical Issue,0.977,High,High,0.998
+T105921,2025-12-24,Replacement needed,Returns & Refunds,Returns & Refunds,0.615,Low,Low,0.037
+T100782,2025-02-17,Product information,General Inquiry,General Inquiry,0.96,Low,Low,0.001
+T102341,2025-05-24,URGENT: Support request,Billing & Payments,Billing & Payments,0.923,High,High,0.849
+T103704,2025-08-18,Need assistance,Technical Issue,Technical Issue,0.842,Low,Low,0.005
+T104986,2025-10-27,Invoice issue,Billing & Payments,Billing & Payments,0.965,Medium,Medium,0.001
+T103288,2025-07-24,URGENT: App problem,Technical Issue,Technical Issue,0.968,High,High,0.996
+T105541,2025-12-01,Replacement needed,Returns & Refunds,Returns & Refunds,0.955,Medium,Medium,0.001
+T101828,2025-04-22,Wrong amount billed,Returns & Refunds,Billing & Payments,0.972,Medium,Medium,0.001
+T103242,2025-07-22,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.758,Medium,Medium,0.003
+T104252,2025-09-16,App problem,Technical Issue,Technical Issue,0.976,High,High,0.922
+T105529,2025-11-29,Re: my issue,Billing & Payments,Billing & Payments,0.932,Low,Low,0.174
+T101601,2025-04-09,Password reset,Account & Login,Account & Login,0.974,High,High,0.962
+T102669,2025-06-13,Invoice issue,Billing & Payments,Billing & Payments,0.963,Low,Low,0.062
+T101966,2025-05-01,Billing question,Billing & Payments,Billing & Payments,0.961,High,High,0.996
+T100716,2025-02-12,Payment problem,Billing & Payments,Billing & Payments,0.948,Low,Low,0.005
+T101753,2025-04-17,Bug report,Technical Issue,Technical Issue,0.976,Medium,Medium,0.006
+T103904,2025-08-29,Refund status,Returns & Refunds,Returns & Refunds,0.94,Medium,Medium,0.002
+T101062,2025-03-05,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.969,Low,Medium,0.347
+T105849,2025-12-19,Charge on my card,Billing & Payments,Billing & Payments,0.963,Medium,Medium,0.048
+T103344,2025-07-28,Payment problem,Returns & Refunds,Billing & Payments,0.885,Medium,Medium,0.002
+T101438,2025-03-29,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.966,Medium,Medium,0.001
+T105052,2025-10-30,Wrong amount billed,Billing & Payments,Billing & Payments,0.937,Low,Low,0.005
+T105346,2025-11-18,Billing question,Billing & Payments,Billing & Payments,0.934,High,Low,0.357
+T103812,2025-08-25,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.966,High,High,0.779
+T102831,2025-06-25,Feature not loading,Technical Issue,Technical Issue,0.963,Medium,Medium,0.003
+T101778,2025-04-18,URGENT: Exchange question,Returns & Refunds,Returns & Refunds,0.978,High,High,0.931
+T103861,2025-08-28,Website error,Technical Issue,Technical Issue,0.967,High,High,0.602
+T103892,2025-08-29,Delivery problem,General Inquiry,Shipping & Delivery,0.979,Medium,Medium,0.01
+T102037,2025-05-06,Wrong amount billed,Billing & Payments,Billing & Payments,0.976,High,High,0.996
+T105557,2025-12-02,Where is my order,Shipping & Delivery,Shipping & Delivery,0.943,Low,Low,0.012
+T100689,2025-02-11,Charge on my card,Billing & Payments,Billing & Payments,0.774,Medium,Low,0.064
+T100764,2025-02-15,Exchange question,Returns & Refunds,Returns & Refunds,0.961,Low,Low,0.004
+T105536,2025-12-01,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.929,High,High,0.941
+T105306,2025-11-15,Re: my issue,Billing & Payments,Billing & Payments,0.899,Medium,Medium,0.005
+T104717,2025-10-09,Wrong amount billed,Billing & Payments,Billing & Payments,0.977,Medium,Medium,0.139
+T105258,2025-11-13,Payment problem,Billing & Payments,Billing & Payments,0.976,Medium,Medium,0.152
+T104895,2025-10-21,Hello,Returns & Refunds,Technical Issue,0.754,Low,Low,0.044
+T104259,2025-09-16,URGENT: App problem,Technical Issue,Technical Issue,0.976,High,High,1.0
+T102728,2025-06-17,Tracking question,Shipping & Delivery,Shipping & Delivery,0.98,High,High,0.995
+T103659,2025-08-15,Cannot log in,Account & Login,Account & Login,0.823,High,High,0.944
+T100845,2025-02-20,App problem,Technical Issue,Technical Issue,0.793,Low,Low,0.008
+T100843,2025-02-20,Refund status,Returns & Refunds,Returns & Refunds,0.964,Medium,Medium,0.0
+T102855,2025-06-26,Need assistance,Account & Login,Account & Login,0.903,Medium,Medium,0.065
+T102395,2025-05-27,Product information,General Inquiry,General Inquiry,0.946,Low,Low,0.069
+T102824,2025-06-24,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.912,High,High,0.871
+T102936,2025-07-02,Account security,Account & Login,Account & Login,0.971,Medium,Medium,0.009
+T101173,2025-03-12,Return request,Returns & Refunds,Returns & Refunds,0.975,Low,Medium,0.039
+T103315,2025-07-26,Profile settings,Account & Login,Account & Login,0.976,Medium,Medium,0.005
+T100362,2025-01-22,Parcel issue,General Inquiry,Shipping & Delivery,0.966,Low,Low,0.012
+T104135,2025-09-11,Cannot log in,Account & Login,Account & Login,0.983,High,High,0.994
+T102408,2025-05-28,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.964,Medium,Medium,0.019
+T103621,2025-08-13,Account security,Account & Login,Account & Login,0.949,Medium,Medium,0.001
+T102632,2025-06-10,Bug report,Technical Issue,Technical Issue,0.976,High,High,0.987
+T104386,2025-09-20,URGENT: App problem,Technical Issue,Technical Issue,0.932,High,High,0.983
+T102156,2025-05-12,Payment problem,Billing & Payments,Billing & Payments,0.957,Low,Low,0.002
+T100378,2025-01-23,Return request,Returns & Refunds,Returns & Refunds,0.971,High,High,0.832
+T103058,2025-07-09,Password reset,Account & Login,Account & Login,0.903,Low,Low,0.011
+T100766,2025-02-15,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.97,Medium,Medium,0.0
+T103187,2025-07-18,Help,Billing & Payments,Billing & Payments,0.958,High,High,0.869
+T104548,2025-09-29,Wrong item received,Returns & Refunds,Returns & Refunds,0.965,Low,Low,0.032
+T104543,2025-09-29,URGENT: Bug report,Technical Issue,Technical Issue,0.979,High,High,0.999
+T103312,2025-07-26,Help,Returns & Refunds,Returns & Refunds,0.747,Medium,Medium,0.051
+T100592,2025-02-04,Tracking question,Shipping & Delivery,Shipping & Delivery,0.961,High,High,0.968
+T100490,2025-01-29,Information request,General Inquiry,General Inquiry,0.964,Medium,Medium,0.0
+T102746,2025-06-18,Billing question,Billing & Payments,Billing & Payments,0.972,High,High,0.906
+T105025,2025-10-28,Something is not working,Technical Issue,Technical Issue,0.958,Medium,Medium,0.002
+T103583,2025-08-11,Wrong amount billed,Billing & Payments,Billing & Payments,0.969,High,High,0.996
+T101654,2025-04-11,URGENT: Website error,Technical Issue,Technical Issue,0.941,High,High,0.998
+T101388,2025-03-26,Payment problem,Billing & Payments,Billing & Payments,0.923,Medium,Medium,0.022
+T102371,2025-05-26,Profile settings,Account & Login,Account & Login,0.984,High,High,0.996
+T102431,2025-05-29,Tracking question,Shipping & Delivery,Shipping & Delivery,0.957,Medium,Medium,0.137
+T102639,2025-06-11,Profile settings,Account & Login,Account & Login,0.99,High,High,0.992
+T100761,2025-02-14,Wrong item received,Returns & Refunds,Returns & Refunds,0.977,Low,Medium,0.043
+T102839,2025-06-25,URGENT: Charge on my card,Billing & Payments,Billing & Payments,0.975,High,High,0.999
+T104830,2025-10-17,Charge on my card,Billing & Payments,Billing & Payments,0.963,High,High,0.988
+T104754,2025-10-13,Wrong amount billed,Billing & Payments,Billing & Payments,0.948,Medium,Medium,0.004
+T104344,2025-09-19,Something is not working,Technical Issue,Technical Issue,0.975,High,High,0.994
+T104778,2025-10-14,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.95,Medium,Medium,0.002
+T104857,2025-10-20,URGENT: Parcel issue,Shipping & Delivery,Shipping & Delivery,0.932,High,High,0.942
+T103191,2025-07-18,Help,Technical Issue,Technical Issue,0.938,Medium,Medium,0.093
+T104146,2025-09-12,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.976,Medium,Medium,0.072
+T101078,2025-03-06,Password reset,Account & Login,Account & Login,0.954,Medium,Low,0.004
+T102684,2025-06-14,Account security,Account & Login,Account & Login,0.982,High,High,0.989
+T104215,2025-09-16,URGENT: Website error,Technical Issue,Technical Issue,0.956,High,High,0.762
+T102506,2025-06-03,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.547,Low,Low,0.043
+T102103,2025-05-09,Payment problem,Billing & Payments,Billing & Payments,0.815,Medium,Medium,0.001
+T100899,2025-02-24,Need assistance,Shipping & Delivery,Shipping & Delivery,0.91,Medium,Medium,0.001
+T101810,2025-04-21,Replacement needed,Returns & Refunds,Returns & Refunds,0.976,Medium,Medium,0.001
+T100841,2025-02-19,Where is my order,Shipping & Delivery,Shipping & Delivery,0.939,Medium,Medium,0.0
+T103048,2025-07-09,Wrong amount billed,Billing & Payments,Billing & Payments,0.972,Medium,Medium,0.001
+T100578,2025-02-04,Where is my order,Shipping & Delivery,Shipping & Delivery,0.897,Medium,Medium,0.0
+T100428,2025-01-26,Account security,Account & Login,Account & Login,0.974,Medium,Medium,0.002
+T104143,2025-09-12,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.953,Medium,Medium,0.001
+T101231,2025-03-16,URGENT: Tracking question,Shipping & Delivery,Shipping & Delivery,0.845,High,High,0.88
+T104309,2025-09-18,URGENT: Bug report,General Inquiry,Technical Issue,0.959,High,High,0.975
+T105887,2025-12-22,Re: my issue,Technical Issue,Technical Issue,0.736,High,High,0.537
+T104042,2025-09-06,Something is not working,Technical Issue,Technical Issue,0.968,Medium,Medium,0.037
+T101432,2025-03-28,Something is not working,Technical Issue,Technical Issue,0.96,Low,Low,0.01
+T100216,2025-01-15,Where is my order,Shipping & Delivery,Shipping & Delivery,0.962,Low,Medium,0.052
+T105407,2025-11-21,Wrong amount billed,Billing & Payments,Billing & Payments,0.954,Medium,Medium,0.006
+T102455,2025-05-30,Hello,Shipping & Delivery,Shipping & Delivery,0.926,Medium,Medium,0.001
+T100998,2025-03-01,Feedback,General Inquiry,General Inquiry,0.87,Low,Low,0.003
+T104559,2025-09-29,Information request,General Inquiry,General Inquiry,0.876,Low,Low,0.003
+T104290,2025-09-18,Website error,Technical Issue,Technical Issue,0.958,High,High,0.971
+T101798,2025-04-21,Where is my order,Shipping & Delivery,Shipping & Delivery,0.936,Low,Low,0.003
+T104784,2025-10-14,URGENT: Delivery problem,Shipping & Delivery,Shipping & Delivery,0.783,High,High,0.906
+T105530,2025-11-30,Payment problem,Billing & Payments,Billing & Payments,0.946,Low,Low,0.002
+T104595,2025-10-02,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.962,Medium,Low,0.031
+T103200,2025-07-18,Need assistance,General Inquiry,General Inquiry,0.902,Medium,Low,0.009
+T100377,2025-01-23,URGENT: Invoice issue,Billing & Payments,Billing & Payments,0.942,High,High,0.823
+T104582,2025-10-01,Bug report,Technical Issue,Technical Issue,0.963,Medium,Medium,0.002
+T103333,2025-07-28,Feature not loading,Technical Issue,Technical Issue,0.803,Medium,Medium,0.003
+T103566,2025-08-10,Product information,General Inquiry,General Inquiry,0.948,Low,Low,0.006
+T100064,2025-01-05,Payment problem,Billing & Payments,Billing & Payments,0.977,Medium,Medium,0.136
+T103264,2025-07-23,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.874,Medium,Medium,0.046
+T101024,2025-03-03,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.981,Medium,Medium,0.059
+T104137,2025-09-11,App problem,Technical Issue,Technical Issue,0.955,Medium,Medium,0.008
+T104763,2025-10-13,Partnership enquiry,General Inquiry,General Inquiry,0.954,Medium,Medium,0.0
+T100098,2025-01-07,Question,Billing & Payments,Account & Login,0.949,High,Medium,0.071
+T100181,2025-01-13,Wrong amount billed,Billing & Payments,Billing & Payments,0.972,Medium,Medium,0.001
+T100339,2025-01-21,Cannot log in,Account & Login,Account & Login,0.789,Low,Low,0.006
+T101398,2025-03-27,Help,Billing & Payments,Account & Login,0.656,Low,Low,0.012
+T104530,2025-09-27,Invoice issue,Billing & Payments,Billing & Payments,0.979,High,High,0.976
+T105630,2025-12-08,Need assistance,Returns & Refunds,Returns & Refunds,0.534,Medium,Medium,0.003
+T102954,2025-07-03,Wrong item received,Returns & Refunds,Returns & Refunds,0.98,Medium,Medium,0.02
+T100852,2025-02-20,Information request,General Inquiry,General Inquiry,0.837,Medium,Medium,0.001
+T102745,2025-06-18,Cannot log in,Account & Login,Account & Login,0.928,High,Low,0.377
+T105560,2025-12-02,Information request,General Inquiry,General Inquiry,0.908,Low,Low,0.0
+T103273,2025-07-23,Website error,Technical Issue,Technical Issue,0.954,Low,Medium,0.023
+T101760,2025-04-18,Hello,Returns & Refunds,Returns & Refunds,0.867,Medium,Medium,0.04
+T105077,2025-10-31,Billing question,Billing & Payments,Billing & Payments,0.97,Low,Low,0.064
+T102355,2025-05-26,URGENT: Billing question,Billing & Payments,Billing & Payments,0.981,High,High,0.999
+T103748,2025-08-20,Tracking question,Shipping & Delivery,Shipping & Delivery,0.721,Medium,Medium,0.015
+T104234,2025-09-16,Return request,Returns & Refunds,Returns & Refunds,0.96,Medium,Medium,0.0
+T101731,2025-04-16,Something is not working,Technical Issue,Technical Issue,0.924,High,High,0.961
+T102079,2025-05-07,Cannot log in,Account & Login,Account & Login,0.795,Medium,Medium,0.001
+T100451,2025-01-27,Account security,Account & Login,Account & Login,0.811,Medium,Medium,0.097
+T103840,2025-08-26,Hello,Returns & Refunds,Returns & Refunds,0.911,Medium,Medium,0.0
+T104933,2025-10-23,URGENT: Feature not loading,Technical Issue,Technical Issue,0.976,High,High,0.991
+T100073,2025-01-06,URGENT: App problem,Technical Issue,Technical Issue,0.975,High,High,0.997
+T104222,2025-09-16,Return request,Returns & Refunds,Returns & Refunds,0.969,Low,Low,0.024
+T102848,2025-06-26,Password reset,Account & Login,Account & Login,0.947,Low,Low,0.01
+T103933,2025-09-01,Information request,General Inquiry,General Inquiry,0.958,Low,Low,0.0
+T103912,2025-08-30,URGENT: Delivery problem,Shipping & Delivery,Shipping & Delivery,0.955,High,High,0.992
+T101348,2025-03-24,Bug report,Technical Issue,Technical Issue,0.957,Low,Low,0.058
+T103246,2025-07-22,Re: my issue,Returns & Refunds,Returns & Refunds,0.861,Medium,Medium,0.001
+T103365,2025-07-30,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.972,High,High,0.55
+T105206,2025-11-10,Something is not working,Technical Issue,Technical Issue,0.924,Medium,Medium,0.01
+T100799,2025-02-17,URGENT: Exchange question,Returns & Refunds,Returns & Refunds,0.968,High,High,0.995
+T100120,2025-01-08,Tracking question,Shipping & Delivery,Shipping & Delivery,0.936,Low,Low,0.029
+T103398,2025-07-31,Need assistance,Technical Issue,Technical Issue,0.899,Medium,Medium,0.001
+T104101,2025-09-10,URGENT: Account access,Account & Login,Account & Login,0.958,High,High,0.996
+T103366,2025-07-30,Something is not working,Technical Issue,Technical Issue,0.933,Medium,Medium,0.004
+T103162,2025-07-17,Quick question,General Inquiry,General Inquiry,0.95,Low,Low,0.238
+T105332,2025-11-17,Where is my order,Shipping & Delivery,Shipping & Delivery,0.974,Medium,High,0.848
+T101950,2025-04-30,Account access,Account & Login,Account & Login,0.977,Low,Medium,0.189
+T101038,2025-03-04,URGENT: Invoice issue,Billing & Payments,Billing & Payments,0.977,Low,High,0.558
+T101026,2025-03-03,Tracking question,Shipping & Delivery,Shipping & Delivery,0.826,Low,Low,0.153
+T101054,2025-03-05,Help,General Inquiry,General Inquiry,0.883,Low,Medium,0.01
+T102409,2025-05-28,Information request,General Inquiry,General Inquiry,0.967,Low,Low,0.022
+T104844,2025-10-19,Re: my issue,Returns & Refunds,Returns & Refunds,0.939,Low,Low,0.076
+T102136,2025-05-11,Something is not working,Technical Issue,Technical Issue,0.953,High,High,0.929
+T101149,2025-03-10,Re: my issue,Billing & Payments,Billing & Payments,0.717,Low,Low,0.004
+T103260,2025-07-23,Website error,Technical Issue,Technical Issue,0.971,High,High,0.997
+T105640,2025-12-08,Quick question,General Inquiry,General Inquiry,0.923,Medium,Medium,0.0
+T101706,2025-04-15,Need assistance,Returns & Refunds,Returns & Refunds,0.89,Medium,Medium,0.001
+T101861,2025-04-24,URGENT: Exchange question,Returns & Refunds,Returns & Refunds,0.913,Low,Low,0.126
+T105910,2025-12-23,Invoice issue,Billing & Payments,Billing & Payments,0.976,High,High,0.99
+T101091,2025-03-07,Tracking question,Shipping & Delivery,Shipping & Delivery,0.747,Low,Low,0.003
+T100002,2025-01-01,Exchange question,Returns & Refunds,Returns & Refunds,0.957,Medium,Medium,0.005
+T101328,2025-03-22,Invoice issue,Billing & Payments,Billing & Payments,0.949,Low,Low,0.001
+T104095,2025-09-10,Quick question,General Inquiry,General Inquiry,0.715,Low,Low,0.296
+T103672,2025-08-16,Exchange question,Returns & Refunds,Returns & Refunds,0.981,Medium,Medium,0.04
+T105433,2025-11-24,Partnership enquiry,General Inquiry,General Inquiry,0.964,Medium,Medium,0.0
+T104842,2025-10-19,Wrong item received,Returns & Refunds,Returns & Refunds,0.977,Low,Low,0.019
+T100228,2025-01-15,Replacement needed,Returns & Refunds,Returns & Refunds,0.945,Medium,Medium,0.001
+T106017,2025-12-30,Payment problem,Billing & Payments,Billing & Payments,0.918,Medium,Medium,0.094
+T104216,2025-09-16,Profile settings,Account & Login,Account & Login,0.979,High,High,0.995
+T100723,2025-02-13,URGENT: Profile settings,Account & Login,Account & Login,0.973,High,High,0.962
+T100464,2025-01-28,Need assistance,General Inquiry,General Inquiry,0.871,Low,Low,0.012
+T103391,2025-07-31,App problem,Technical Issue,Technical Issue,0.948,Medium,Medium,0.004
+T101156,2025-03-11,Partnership enquiry,General Inquiry,General Inquiry,0.942,Low,Low,0.088
+T100807,2025-02-18,Password reset,Account & Login,Account & Login,0.969,Medium,High,0.797
+T104431,2025-09-22,Bug report,Technical Issue,Technical Issue,0.965,Medium,Medium,0.002
+T100595,2025-02-05,Profile settings,Account & Login,Account & Login,0.97,Medium,Medium,0.002
+T102485,2025-06-02,Payment problem,Billing & Payments,Billing & Payments,0.946,Medium,Low,0.098
+T101259,2025-03-18,Tracking question,Shipping & Delivery,Shipping & Delivery,0.956,Low,Low,0.001
+T102382,2025-05-26,Product information,General Inquiry,General Inquiry,0.705,Low,Low,0.006
+T103431,2025-08-01,Charge on my card,Billing & Payments,Billing & Payments,0.966,High,High,0.815
+T104976,2025-10-26,URGENT: Delivery problem,Shipping & Delivery,Shipping & Delivery,0.966,High,High,0.993
+T101659,2025-04-11,Profile settings,Account & Login,Account & Login,0.972,Medium,Medium,0.007
+T100438,2025-01-27,Refund status,Returns & Refunds,Returns & Refunds,0.851,Medium,Medium,0.001
+T102828,2025-06-24,App problem,Technical Issue,Technical Issue,0.952,Medium,Medium,0.001
+T101703,2025-04-15,Invoice issue,Billing & Payments,Billing & Payments,0.934,High,Medium,0.091
+T105439,2025-11-24,Wrong amount billed,Billing & Payments,Billing & Payments,0.626,Medium,Medium,0.002
+T104372,2025-09-19,Feature not loading,Technical Issue,Technical Issue,0.98,High,High,0.976
+T102300,2025-05-22,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.727,Low,Low,0.002
+T102963,2025-07-03,Help,Returns & Refunds,Returns & Refunds,0.907,Low,Low,0.002
+T101544,2025-04-04,URGENT: Billing question,Billing & Payments,Billing & Payments,0.943,High,High,0.846
+T101487,2025-04-01,Information request,General Inquiry,General Inquiry,0.954,Low,Low,0.001
+T105218,2025-11-10,Tracking question,Shipping & Delivery,Shipping & Delivery,0.632,Medium,Medium,0.004
+T104927,2025-10-23,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.95,Low,Low,0.036
+T101980,2025-05-02,App problem,Technical Issue,Technical Issue,0.937,Low,Low,0.018
+T103498,2025-08-06,App problem,Technical Issue,Technical Issue,0.967,High,High,0.993
+T102090,2025-05-08,Feedback,General Inquiry,General Inquiry,0.954,Low,Low,0.004
+T100600,2025-02-05,Tracking question,Shipping & Delivery,Shipping & Delivery,0.63,Low,Low,0.004
+T105733,2025-12-13,Question,Account & Login,Billing & Payments,0.949,Medium,High,0.81
+T100529,2025-01-31,Replacement needed,Returns & Refunds,Returns & Refunds,0.931,Medium,Medium,0.048
+T105983,2025-12-28,URGENT: App problem,Technical Issue,Technical Issue,0.901,Low,Low,0.103
+T103641,2025-08-14,Feature not loading,Technical Issue,Technical Issue,0.977,High,High,0.985
+T104965,2025-10-25,Profile settings,Account & Login,Account & Login,0.989,High,High,0.985
+T102488,2025-06-02,Bug report,Technical Issue,Technical Issue,0.925,Low,Low,0.008
+T103781,2025-08-22,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.689,Low,Low,0.031
+T100967,2025-02-28,Hello,Technical Issue,Technical Issue,0.883,Medium,Medium,0.002
+T100744,2025-02-13,Hello,Account & Login,Account & Login,0.764,High,High,0.962
+T104044,2025-09-06,Feature not loading,Technical Issue,Technical Issue,0.963,Low,Low,0.026
+T101622,2025-04-09,Password reset,Account & Login,Account & Login,0.924,High,High,0.813
+T100057,2025-01-04,Refund status,Returns & Refunds,Returns & Refunds,0.977,High,High,0.904
+T100096,2025-01-07,Invoice issue,Billing & Payments,Billing & Payments,0.834,Medium,Medium,0.016
+T105751,2025-12-15,Re: my issue,Returns & Refunds,Returns & Refunds,0.902,Low,Medium,0.123
+T103379,2025-07-30,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.63,Medium,Medium,0.378
+T105987,2025-12-29,Feature not loading,Technical Issue,Technical Issue,0.962,Low,Low,0.026
+T101520,2025-04-03,Invoice issue,Billing & Payments,Billing & Payments,0.915,Medium,Medium,0.0
+T101312,2025-03-21,Tracking question,Shipping & Delivery,Shipping & Delivery,0.748,Medium,Medium,0.002
+T101820,2025-04-22,Information request,Shipping & Delivery,General Inquiry,0.971,Low,Low,0.001
+T100118,2025-01-08,Account access,Account & Login,Account & Login,0.966,Low,Medium,0.035
+T102175,2025-05-13,Where is my order,Shipping & Delivery,Shipping & Delivery,0.964,High,High,0.905
+T101296,2025-03-20,Replacement needed,Returns & Refunds,Returns & Refunds,0.972,Low,Low,0.01
+T102398,2025-05-27,Feature not loading,Technical Issue,Technical Issue,0.956,Medium,Medium,0.042
+T105672,2025-12-10,Exchange question,Returns & Refunds,Returns & Refunds,0.966,High,High,0.947
+T101497,2025-04-02,Support request,General Inquiry,Returns & Refunds,0.757,Low,Low,0.006
+T104404,2025-09-21,Bug report,Technical Issue,Technical Issue,0.884,High,Medium,0.315
+T101167,2025-03-12,URGENT: Help,Account & Login,Account & Login,0.936,High,High,0.999
+T105996,2025-12-29,Account security,Account & Login,Account & Login,0.967,Medium,Medium,0.0
+T101667,2025-04-12,Re: my issue,Returns & Refunds,Returns & Refunds,0.905,Low,Low,0.01
+T105317,2025-11-17,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.972,Medium,Medium,0.0
+T101018,2025-03-03,Product information,General Inquiry,General Inquiry,0.626,Low,Low,0.009
+T100170,2025-01-11,Feature not loading,Technical Issue,Technical Issue,0.962,Low,Low,0.146
+T104118,2025-09-11,Invoice issue,Billing & Payments,Billing & Payments,0.978,High,High,0.982
+T100044,2025-01-03,Exchange question,Returns & Refunds,Returns & Refunds,0.873,Low,Low,0.019
+T105074,2025-10-31,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.953,Medium,Medium,0.007
+T105747,2025-12-15,Refund status,Returns & Refunds,Returns & Refunds,0.964,Medium,Medium,0.038
+T102102,2025-05-09,Bug report,Technical Issue,Technical Issue,0.957,Medium,Medium,0.006
+T103151,2025-07-16,Cannot log in,Account & Login,Account & Login,0.971,Low,Low,0.018
+T100549,2025-02-01,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.974,Low,Low,0.004
+T103685,2025-08-17,Partnership enquiry,General Inquiry,General Inquiry,0.96,Low,Low,0.002
+T104136,2025-09-11,App problem,Technical Issue,Technical Issue,0.905,Medium,Low,0.01
+T104255,2025-09-16,Wrong item received,Returns & Refunds,Returns & Refunds,0.95,Medium,Medium,0.001
+T102916,2025-07-01,Profile settings,Account & Login,Account & Login,0.827,Low,Low,0.046
+T101600,2025-04-09,URGENT: Partnership enquiry,General Inquiry,General Inquiry,0.945,Low,Low,0.021
+T102178,2025-05-14,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.924,High,High,0.678
+T105719,2025-12-12,Cannot log in,Account & Login,Account & Login,0.784,Low,Low,0.033
+T104562,2025-09-30,Question,Returns & Refunds,Returns & Refunds,0.863,Medium,Medium,0.001
+T103686,2025-08-17,Bug report,Technical Issue,Technical Issue,0.77,Medium,Medium,0.007
+T102949,2025-07-02,Password reset,Account & Login,Account & Login,0.991,Medium,Medium,0.02
+T103901,2025-08-29,Payment problem,Billing & Payments,Billing & Payments,0.948,Low,Low,0.134
+T102196,2025-05-15,Wrong amount billed,Billing & Payments,Billing & Payments,0.809,Low,Low,0.0
+T100775,2025-02-16,Question,Technical Issue,Technical Issue,0.958,High,High,0.838
+T101112,2025-03-08,Tracking question,Shipping & Delivery,Shipping & Delivery,0.968,Medium,Medium,0.001
+T100119,2025-01-08,Billing question,Billing & Payments,Billing & Payments,0.805,Medium,Medium,0.203
+T102568,2025-06-06,Quick question,General Inquiry,General Inquiry,0.951,Low,Low,0.002
+T104711,2025-10-09,Tracking question,Shipping & Delivery,Shipping & Delivery,0.985,Medium,Medium,0.072
+T104460,2025-09-23,Help,General Inquiry,General Inquiry,0.878,Low,Low,0.022
+T105160,2025-11-06,Bug report,Technical Issue,Technical Issue,0.804,Medium,Medium,0.006
+T104057,2025-09-08,Bug report,Technical Issue,Technical Issue,0.956,Medium,Medium,0.002
+T104467,2025-09-24,Payment problem,Billing & Payments,Billing & Payments,0.977,Medium,Medium,0.136
+T100123,2025-01-08,Website error,Technical Issue,Technical Issue,0.965,Medium,Medium,0.001
+T104462,2025-09-24,Payment problem,Billing & Payments,Billing & Payments,0.974,High,High,0.994
+T101651,2025-04-11,Bug report,Technical Issue,Technical Issue,0.958,Low,Low,0.004
+T101921,2025-04-28,Question,Account & Login,Account & Login,0.646,Medium,Medium,0.148
+T103636,2025-08-14,Where is my order,Shipping & Delivery,Shipping & Delivery,0.947,High,High,0.745
+T101767,2025-04-18,Replacement needed,Returns & Refunds,Returns & Refunds,0.971,Low,Low,0.012
+T104313,2025-09-18,Something is not working,Technical Issue,Technical Issue,0.974,High,High,0.986
+T100034,2025-01-03,URGENT: Delivery problem,Shipping & Delivery,Shipping & Delivery,0.961,Low,Low,0.271
+T104797,2025-10-15,Billing question,Billing & Payments,Billing & Payments,0.976,Medium,Medium,0.049
+T100149,2025-01-09,Cannot log in,Account & Login,Account & Login,0.857,Medium,Medium,0.01
+T102481,2025-06-02,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.954,Medium,Medium,0.008
+T104217,2025-09-16,URGENT: Wrong amount billed,Billing & Payments,Billing & Payments,0.965,High,High,0.468
+T103184,2025-07-18,Re: my issue,General Inquiry,General Inquiry,0.928,Low,Low,0.007
+T101586,2025-04-08,Replacement needed,Returns & Refunds,Returns & Refunds,0.929,Low,Low,0.231
+T103628,2025-08-14,URGENT: Password reset,Account & Login,Account & Login,0.973,High,High,0.999
+T105466,2025-11-25,URGENT: Bug report,Technical Issue,Technical Issue,0.967,High,High,0.993
+T105499,2025-11-28,Invoice issue,Billing & Payments,Billing & Payments,0.971,Medium,Medium,0.001
+T102392,2025-05-27,Hello,Billing & Payments,Billing & Payments,0.961,Low,Medium,0.055
+T105611,2025-12-05,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.951,Medium,Medium,0.001
+T100982,2025-02-28,Charge on my card,Billing & Payments,Billing & Payments,0.834,Low,Low,0.062
+T104860,2025-10-20,Delivery problem,Shipping & Delivery,Shipping & Delivery,0.969,Medium,Medium,0.0
+T101634,2025-04-10,Wrong amount billed,Billing & Payments,Billing & Payments,0.959,High,High,0.879
+T101280,2025-03-19,Hello,Account & Login,Account & Login,0.863,Low,Low,0.003
+T100417,2025-01-25,URGENT: Exchange question,Returns & Refunds,Returns & Refunds,0.971,High,High,0.987
+T101663,2025-04-11,Account access,Account & Login,Account & Login,0.966,High,High,0.987
+T102235,2025-05-17,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.967,High,High,0.964
+T105414,2025-11-22,URGENT: Cannot log in,Account & Login,Account & Login,0.976,High,High,0.998
+T101479,2025-04-01,Charge on my card,Billing & Payments,Billing & Payments,0.971,High,High,0.998
+T102992,2025-07-04,URGENT: Support request,Account & Login,Account & Login,0.936,High,High,0.948
+T101529,2025-04-04,Account access,Account & Login,Account & Login,0.965,Low,Low,0.017
+T104719,2025-10-09,Charge on my card,Billing & Payments,Billing & Payments,0.973,Low,Medium,0.248
+T104447,2025-09-23,Bug report,Technical Issue,Technical Issue,0.96,Medium,Medium,0.001
+T100168,2025-01-11,Charge on my card,Billing & Payments,Billing & Payments,0.959,Medium,Medium,0.206
+T102589,2025-06-08,Support request,Account & Login,Account & Login,0.784,Medium,Low,0.281
+T103524,2025-08-07,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.955,High,Medium,0.404
+T103479,2025-08-05,URGENT: Need assistance,Billing & Payments,Billing & Payments,0.832,Low,Low,0.021
+T101355,2025-03-25,Help,Returns & Refunds,Returns & Refunds,0.95,High,High,0.966
+T103382,2025-07-30,Tracking question,Shipping & Delivery,Shipping & Delivery,0.967,Medium,Medium,0.0
+T100148,2025-01-09,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.888,Low,Low,0.009
+T105877,2025-12-22,Re: my issue,Returns & Refunds,General Inquiry,0.582,Low,Low,0.001
+T101514,2025-04-02,Payment problem,Billing & Payments,Billing & Payments,0.94,Medium,Medium,0.001
+T101126,2025-03-10,Return request,Returns & Refunds,Returns & Refunds,0.943,Medium,Medium,0.004
+T100759,2025-02-14,Replacement needed,Returns & Refunds,Returns & Refunds,0.929,High,High,0.901
+T102516,2025-06-04,Feedback,General Inquiry,General Inquiry,0.962,Low,Low,0.0
+T104047,2025-09-07,Website error,Technical Issue,Technical Issue,0.939,High,High,0.967
+T104028,2025-09-05,App problem,Technical Issue,Technical Issue,0.873,High,High,0.951
+T104560,2025-09-29,Re: my issue,Billing & Payments,Billing & Payments,0.958,High,High,0.996
+T100951,2025-02-26,Website error,Technical Issue,Technical Issue,0.705,High,High,0.67
+T104599,2025-10-02,App problem,Technical Issue,Technical Issue,0.953,Low,Low,0.087
+T103216,2025-07-20,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.955,Medium,Medium,0.001
+T102974,2025-07-04,URGENT: Re: my issue,Account & Login,Account & Login,0.927,High,High,0.926
+T100643,2025-02-07,Charge on my card,Billing & Payments,Billing & Payments,0.954,High,High,0.988
+T105129,2025-11-04,Website error,Technical Issue,Technical Issue,0.965,Medium,Medium,0.001
+T105342,2025-11-18,Something is not working,Technical Issue,Technical Issue,0.92,Low,Low,0.076
+T100730,2025-02-13,Account security,Account & Login,Account & Login,0.975,High,High,0.996
+T104628,2025-10-03,Website error,Technical Issue,Technical Issue,0.941,Low,Low,0.009
+T103926,2025-08-31,URGENT: Feature not loading,Technical Issue,Technical Issue,0.924,High,High,0.989
+T104856,2025-10-20,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.982,High,High,0.994
+T103208,2025-07-19,Quick question,General Inquiry,General Inquiry,0.879,Low,Low,0.008
+T103424,2025-08-01,Help,Billing & Payments,Billing & Payments,0.939,Medium,Medium,0.003
+T101410,2025-03-28,Billing question,Billing & Payments,Billing & Payments,0.931,Medium,Low,0.011
+T102066,2025-05-07,Password reset,Account & Login,Account & Login,0.939,High,High,0.959
+T101528,2025-04-04,Profile settings,Account & Login,Account & Login,0.941,Medium,Medium,0.017
+T103417,2025-08-01,Payment problem,Billing & Payments,Billing & Payments,0.897,Low,High,0.747
+T100940,2025-02-26,Replacement needed,Returns & Refunds,Returns & Refunds,0.951,Medium,Medium,0.002
+T104566,2025-09-30,Feature not loading,Technical Issue,Technical Issue,0.969,Medium,Low,0.039
+T102519,2025-06-04,Support request,Returns & Refunds,Returns & Refunds,0.705,Medium,Medium,0.0
+T102704,2025-06-16,Exchange question,Returns & Refunds,Returns & Refunds,0.951,Low,Low,0.008
+T105790,2025-12-17,Cannot log in,Account & Login,Account & Login,0.989,Medium,Medium,0.09
+T101927,2025-04-29,Refund status,Returns & Refunds,Returns & Refunds,0.877,High,High,0.944
+T103123,2025-07-14,Tracking question,Shipping & Delivery,Shipping & Delivery,0.902,Medium,Medium,0.001
+T102788,2025-06-22,Return request,Returns & Refunds,Returns & Refunds,0.959,High,High,0.899
+T102535,2025-06-05,Re: my issue,Billing & Payments,Billing & Payments,0.897,Medium,Medium,0.003
+T104012,2025-09-04,URGENT: Hello,General Inquiry,General Inquiry,0.552,Low,Low,0.025
+T104770,2025-10-13,Shipping delay,Shipping & Delivery,Shipping & Delivery,0.983,High,High,0.988
+T103751,2025-08-21,Bug report,Technical Issue,Technical Issue,0.955,Low,Low,0.003
+T100620,2025-02-06,Feedback,General Inquiry,General Inquiry,0.767,Low,Low,0.001
+T101333,2025-03-24,Need assistance,Shipping & Delivery,Returns & Refunds,0.754,Low,Low,0.047
+T103586,2025-08-11,Bug report,Technical Issue,Technical Issue,0.964,High,High,0.987
+T100650,2025-02-07,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.942,Medium,Medium,0.001
+T105697,2025-12-11,Wrong item received,Returns & Refunds,Returns & Refunds,0.967,Low,Low,0.03
+T103371,2025-07-30,Website error,Technical Issue,Technical Issue,0.964,Medium,Medium,0.007
+T101199,2025-03-14,Where is my order,Shipping & Delivery,Shipping & Delivery,0.965,Medium,Medium,0.108
+T105513,2025-11-28,Replacement needed,Returns & Refunds,Returns & Refunds,0.95,Medium,Medium,0.043
+T101342,2025-03-24,Return request,Returns & Refunds,Returns & Refunds,0.951,Medium,Medium,0.013
+T101848,2025-04-23,Product information,General Inquiry,General Inquiry,0.67,Low,Low,0.003
+T101400,2025-03-27,Website error,Technical Issue,Technical Issue,0.954,Low,Low,0.003
+T101749,2025-04-17,Billing question,Billing & Payments,Billing & Payments,0.961,Medium,Medium,0.009
+T105250,2025-11-12,Question,Technical Issue,Technical Issue,0.83,Medium,Low,0.033
+T105116,2025-11-03,Billing question,Billing & Payments,Billing & Payments,0.892,Medium,Low,0.032
+T102765,2025-06-19,Tracking question,Shipping & Delivery,Shipping & Delivery,0.961,Medium,Medium,0.001
+T100411,2025-01-24,Parcel issue,Shipping & Delivery,Shipping & Delivery,0.916,Medium,Medium,0.004
+T100708,2025-02-12,Exchange question,Returns & Refunds,Returns & Refunds,0.864,Medium,Medium,0.01
+T103562,2025-08-10,Product information,General Inquiry,General Inquiry,0.956,Low,Low,0.005
+T100124,2025-01-08,Feedback,General Inquiry,General Inquiry,0.888,Medium,Medium,0.0
+T100374,2025-01-23,Feedback,General Inquiry,General Inquiry,0.918,Medium,Medium,0.003
+T103763,2025-08-21,Invoice issue,Billing & Payments,Billing & Payments,0.975,High,High,0.99
+T103570,2025-08-11,Bug report,Technical Issue,Technical Issue,0.978,Low,Low,0.101
+T104714,2025-10-09,Website error,Technical Issue,Technical Issue,0.866,Medium,Medium,0.012
+T105949,2025-12-25,Invoice issue,Billing & Payments,Billing & Payments,0.958,High,High,0.982
+T103537,2025-08-08,Something is not working,Technical Issue,Technical Issue,0.962,Low,Low,0.005
+T105225,2025-11-11,App problem,Technical Issue,Technical Issue,0.979,High,High,0.767
+T100936,2025-02-26,Re: my issue,Billing & Payments,Billing & Payments,0.867,Low,Low,0.003

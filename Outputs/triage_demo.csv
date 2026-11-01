@@ -1,0 +1,7 @@
+ticket,category,category_confidence,priority,P(High),route_to,first_reply_target,needs_human_check
+Charged twice!: I was charged $89.99 twice for my subscription...,Billing & Payments,0.96,High,0.96,Billing team,1 hour,False
+"Cannot log in: I think someone hacked my account, there are lo...",Account & Login,0.98,High,0.8,Account security,1 hour,False
+Question about shipping: Do you ship to Canada? No rush....,Shipping & Delivery,0.83,Low,0.0,Logistics desk,24 hours,False
+Return request: The headphones I received are the wrong colour...,Returns & Refunds,0.98,Low,0.01,Returns desk,24 hours,False
+App crashes: The mobile app crashes every time I open it and o...,Technical Issue,0.94,High,0.61,Technical support,1 hour,False
+"Feedback: Just wanted to say the new website looks great, than...",General Inquiry,0.94,Low,0.02,Customer success,24 hours,False

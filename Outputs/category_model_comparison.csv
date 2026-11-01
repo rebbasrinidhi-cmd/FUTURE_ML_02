@@ -1,0 +1,6 @@
+model,accuracy,macro_f1,macro_f1_std
+Linear SVM,0.9585,0.9563,0.004
+Logistic Regression,0.9491,0.9468,0.008
+Complement Naive Bayes,0.9459,0.9431,0.0076
+Random Forest,0.9344,0.9308,0.008
+Majority class (baseline),0.222,0.0606,0.0001
